@@ -1,7 +1,5 @@
 # Hardware and software requirements for SQL Server Integration Services (SSIS) 
 Getting your workstation ready for SQL Server Integration Services (SSIS) package development. 
-&nbsp;
-&nbsp;
 
 ## Workstation specifications 
 - Windows 10 
