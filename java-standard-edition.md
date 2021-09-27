@@ -9,7 +9,7 @@
 - 4 Core CPU
 
 ## Development IDE
-**[Download IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. In case you already have it installed and your license has expired, we will provide you a valid license for the duration of the course.
+**[Download IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. In case you already have it installed and your license has expired, we will provide you a valid license for the duration of the course. In case you prefer using another IDE, that's also fine as the examples do not make use of any IDE specific functionality. 
 
 ## Java Development Tools
 1. Java Development Toolkit, download and install the **[JDK 11](https://adoptium.net/)**. Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
