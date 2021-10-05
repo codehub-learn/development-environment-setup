@@ -3,7 +3,7 @@
 ## Recommended Setup
 
 - Python > 3.7
-- Python packages:
+- Python packages: 
   - jupyter
   - numpy
   - pandas
@@ -84,7 +84,7 @@ We recommend using it through your google drive. You can set it up like this:
     - Open a command prompt and type the command `pip`.
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python scripy: `python get-pip.py`.
- 4. Download `requirements.txt` and install them with pip: `pip install -r requirements.txt`.
+ 4. Download **[requirements.txt](requirements.txt)** and install them with pip: `pip install -r requirements.txt`.
 
 ### Locally (other OS)
 
