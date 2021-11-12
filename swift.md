@@ -6,7 +6,7 @@
 
 # Τι χρειαζόμαστε!
   - IDE -> [Xcode][iosDev]
-  - min OS version -> macOS Catalina 10.15
+  - min OS version -> macOS Big Sur (Version > 11.)
 
 Επιπλέον:
 -   Όλο το υλικό των διαλέξεων θα ανεβαίνει σε αυτό το repository
