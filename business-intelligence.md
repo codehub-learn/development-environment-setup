@@ -27,7 +27,7 @@ In detail you have to download:
 and install the SSMS-Setup-ENU.exe file.
 
 3. Power BI
-**[Download the Power BI, desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)**
+**[Download the Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)**
 and install the PBIDesktopSetup_x64.exe.
 
 &nbsp;
