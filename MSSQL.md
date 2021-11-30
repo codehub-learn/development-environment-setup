@@ -18,7 +18,7 @@ After checking your computer, make full installation, select all options and pro
 
 Add current user in all cases 
 
-For authentication, choose *mixed mode authentication* (it may be shown as *SQL Server and Windows Authentication mode*). If you are asked for a user name, use **sa**, and for the password use **passw0rd** (we will only use publicly available sample data for the project so we are looking for default security) 
+For authentication, choose *mixed mode authentication* (it may be shown as *SQL Server and Windows Authentication mode*). If you are asked for a user name, use **sa**, and for the password use **passw0rd** (we will only use publicly available sample data for the project so we are ok with basic security) 
 
 ## SQL Server Management Studio
 
