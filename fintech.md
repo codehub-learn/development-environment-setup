@@ -36,7 +36,7 @@
 2. Install **[Postman Client](https://www.postman.com/downloads/)**.
 
 ## Power BI
-For Power BI download the **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe.
+Download the **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe.
 
 ### Demo databases for Business Intelligence
 **[OLTP version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak)**, **[DW version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)**
