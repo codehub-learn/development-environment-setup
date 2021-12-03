@@ -14,9 +14,8 @@ Execute the SQL2019-SSEI-Dev.exe, choose Download Media at a specified location
 
 Use ISO packaging, mount and install 
 
-After checking your computer, make full installation, select all options and proceed using default settings 
-
-Add current user in all cases 
+After checking your computer, select _Custom Installation_ and ensure that _Database Engine, Integration Services, Analysis Services_ are all selected for installation.
+Add current user in all cases when prompted.
 
 For authentication, choose *mixed mode authentication* (it may be shown as *SQL Server and Windows Authentication mode*). If you are asked for a user name, use **sa**, and for the password use **passw0rd** (we will only use publicly available sample data for the project so we are ok with basic security) 
 
