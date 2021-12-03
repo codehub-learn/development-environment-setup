@@ -49,3 +49,7 @@ The installation of the databases in MSSQL Server will be shown in one of the co
 
 ## Power BI
 Download **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe or download it from the **[Windows Store](https://www.microsoft.com/en-us/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab)
+
+## Other tools 
+1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
+2. Create a **[Github account](https://github.com/join)**
