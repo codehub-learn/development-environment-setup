@@ -42,7 +42,7 @@ The installation of the databases in MSSQL Server will be shown in one of the co
 
 **[Visual Studio 2019 Community](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
 
-## BI Development Tools 
+## SQL Server Development Tools 
 1. The **[SQL Server Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects)** installed for Visual Studio. 
 2. The **[SQL Server Integration Services Projects extension](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects)** installed for Visual Studio. 
 
