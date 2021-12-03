@@ -4,6 +4,10 @@
 
 - Microsoft SQL Server Developer Edition
 - Microsoft SQL Server Management Studio
+- Analysis Services (SSAS) (SQL Server Component and Visual Studio Extension)
+- Integration Servies (SSIS) (SQL Server Component and Visual Studio Extension)
+- Power BI Desktop
+- Visual Studio 2019 Community
 - AdventureWorks sample databases
 
 ## Microsoft SQL Server Developer Edition
