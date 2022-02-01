@@ -1,4 +1,4 @@
-# angular-starter-kit
+# Angular Starter Kit
 Starter kit for developing web apps with Code.Hub and Angular
 
 ![Logo](images/ngCodehub.png)
@@ -17,7 +17,7 @@ Starter kit for developing web apps with Code.Hub and Angular
 3. **Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line window and it should display the installed npm version.
 4. If you do not already have Git installed, navigate to https://git-scm.com/downloads, download the appropriate version for your environment and install it.
 
-#UI/UX Starter Kit
+# UI/UX Starter Kit
 
 <img src="images/adobexdlogo.png" alt="XD Logo" width="100" height="100"/>
 
