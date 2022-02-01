@@ -22,7 +22,7 @@ Starter kit for developing web apps with Code.Hub and Angular
 <img src="images/adobexdlogo.png" alt="XD Logo" width="100" height="100"/>
 
 ## Recommended Setup
--Adobe XD
+- Adobe XD
 
 ## Installation instructions
 1. Download the Creative Cloud Desktop App
