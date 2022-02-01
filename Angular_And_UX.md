@@ -1,7 +1,7 @@
 # angular-starter-kit
 Starter kit for developing web apps with Code.Hub and Angular
 
-![Logo](ngCodehub.png)
+![Logo](images/ngCodehub.png)
 
 ## Recommended Setup
 
