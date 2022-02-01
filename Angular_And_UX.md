@@ -19,6 +19,8 @@ Starter kit for developing web apps with Code.Hub and Angular
 
 #UI/UX Starter Kit
 
+![Logo](images/adobe xd logo.png)
+
 ## Recommended Setup
 -Adobe XD
 
