@@ -38,6 +38,7 @@ and install the PBIDesktopSetup_x64.exe.
 ## AdventureWorks download links 
 
 [OLTP version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak)
+
 [DW version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
 
 ## Restore instructions
