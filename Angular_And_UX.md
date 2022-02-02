@@ -27,4 +27,4 @@ Starter kit for developing web apps with Code.Hub and Angular
 ## Installation instructions
 1. Download the Creative Cloud Desktop App.
 2. Create an Adobe account.
-3. Downlaod and install Adobe XD.
+3. Download and install Adobe XD.
