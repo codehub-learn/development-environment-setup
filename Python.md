@@ -87,16 +87,9 @@ Install python and pip through the OS's default package manager. Then run step 4
 *Note: Most linux and OSX distributions have Python 2 preinstalled. This is not compatible with what we will be seeing in this course. Either install Python 3 locally, or use the online tool described above!* 
 
 
-## Development Editor
+## Development IDE
 **[Download PyCharm](https://www.jetbrains.com/pycharm/)** and install.
 
-### Installation Instructions
-- **[Windows](https://code.visualstudio.com/docs/setup/windows)**
-- **[MacOS](https://code.visualstudio.com/docs/setup/mac)**
-- **[Linux](https://code.visualstudio.com/docs/setup/linux)**
-
-Several plugins should be also installed during the course such as ESLint and Live Server.
-Instructions on how to install and manage your plugins can be found here: **[Εxtension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)**
 
 ## Other tools
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
