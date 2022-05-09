@@ -1,4 +1,4 @@
-# Starter Kit and Resources for Production Engineering
+# Starter Kit and Resources: Industry 4. Engineers
 
 ### PC's specs
 * 8 GB RAM
