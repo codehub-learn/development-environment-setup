@@ -123,6 +123,13 @@ Once you complete the steps, if an update is available, then it will download an
 If the update command doesn’t work, open **Settings** > **Update & Security** > **Windows Update** > **Advanced
 options**, and turn on the “**Receive updates for other Microsoft products when you update Windows”** toggle switch.
 
+<u>**Note:**</u><br>
+If you are receiving the error message "_Error: 0x80370102 The virtual machine could not be started because a required
+feature is not installed._",
+read [this article](https://www.thewindowsclub.com/error-0x80370102-the-virtual-machine-could-not-be-started).
+
+Also, make sure **you haven't disabled virtualization in the BIOS**.
+
 ### 2. Install Docker for Windows 10
 
 1. Go to [hub.docker.com](https://hub.docker.com/) and create your account, if you don't already have one.
