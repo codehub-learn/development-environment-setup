@@ -27,6 +27,52 @@ functionality.
    Maven's installation folder.
 3. Add **%JAVA_HOME%/bin** and **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
 
+## Angular
+
+Starter kit for developing web apps with Code.Hub and Angular.
+<p align="center">
+  <img src="images/angular_logo.png" alt="Angular Starter Kit" />
+</p>
+
+The Recommended Setup includes the following software:
+
+- Visual Studio Code (VSCode)
+- Node.js
+- npm
+
+Find below the installation instructions:
+
+1. Download and install [VSCode](https://code.visualstudio.com/download) editor.
+
+2. Download and install an **LTS** version of [Node.js](https://nodejs.org/). To verify that you have installed it
+   correctly type the command `node -v` in a command line window and it should display the installed version of Node.js
+   > Angular applications require an LTS version of Node.js in order to work properly.
+3. **Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line
+   window and it should display the installed npm version.
+   > Windows users: if the previous command is not working, verify that the path of the npm executable has been added to
+   your PATH environment variable.
+
+To verify that you have set up your local environment correctly, follow the steps below.
+
+1. Clone this repository locally by running the command:
+   ```sh
+   git clone https://github.com/codehub-learn/angular-starter-kit.git
+   ```
+2. Navigate to the newly created `angular-starter-kit` folder and install the project dependencies:
+   ```sh
+   cd angular-starter-kit
+   npm install
+   ```
+3. Run the **Angular Starter Kit** application using the command:
+    ```sh
+   ng serve -o
+   ```
+   You should see the following:
+
+<p align="center">
+  <img src="images/angular_app.png" alt="Angular Starter Kit is running" />
+</p>
+
 ## Other Tools
 
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
