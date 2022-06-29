@@ -89,9 +89,11 @@ aforementioned servers and any accompanying software such as query editors.
 
 ### 1. Install Windows Subsystem for Linux 2 (WSL2)
 
-1. Open **Start**,
-2. Search for  **Command Prompt**, right-click the top result, and select the  **Run as administrator**  option.
-3. Type the following command to _install the WSL on Windows 10_ and press **Enter**:
+1. Make sure your Windows installation has the latest updates installed.
+   > **Settings > System > About > Windows Version = Windows 10 version 21H2**.
+2. Open **Start**.
+3. Search for  **Command Prompt**, right-click the top result, and select the  **Run as administrator**  option.
+4. Type the following command to _install the WSL on Windows 10_ and press **Enter**:
    ```
    wsl --install
    ```
