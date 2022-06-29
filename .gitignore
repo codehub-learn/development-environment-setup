@@ -1,0 +1,98 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.war
+*.ear
+*.sar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Maven #
+#########
+target
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+**/target/
+
+# Eclipse #
+# based on https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore #
+###########
+.settings
+.project
+.classpath
+.springWebflow
+.metadata
+.springBeans
+**/.externalToolBuilders/
+*Servers/
+
+# JetBrains #
+# based on https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore #
+#######################################################################################
+*.iml
+.idea/**
+*.ipr
+*.iws
+**/out/
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Node/NPM/Yarn #
+#################
+node
+**/node/
+**/node_modules/
+
+# Bower #
+############
+**/bower/
+
+# Webpack #
+############
+**/dist/
+**/www/
+
+# Other #
+#########
+*.*~
+*.orig
+.gitconfig
+docker
+
+**/logs/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
