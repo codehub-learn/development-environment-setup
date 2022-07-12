@@ -63,7 +63,13 @@ To verify that you have set up your local environment correctly, follow the step
    cd angular-starter-kit
    npm install
    ```
-3. Run the **Angular Starter Kit** application using the command:
+3. Run the following command to install Angular CLI:
+   ```sh
+   npm install -g @angular/cli
+   ```
+   You should see the following:
+
+4. Run the **Angular Starter Kit** application using the command:
     ```sh
    ng serve -o
    ```
