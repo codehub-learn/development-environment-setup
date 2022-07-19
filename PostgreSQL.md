@@ -15,13 +15,10 @@ For Windows x86-64, download the latest version of [PostgreSQL 14.4](https://www
 Execute the postgresql-14.4-1-windows-x64.exe 
 
  
-## Sample databases
+## Sample database
 
-Go to [this page](https://postgrespro.com/education/demodb) and download the following  database (they are free to download and use): 
+Go to [this page](https://postgrespro.com/education/demodb) and download the following  database (it is free to download and use): 
 
-- [AdventureWorksDW2012.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
-- [AdventureWorks2017.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
+- demo-medium-en.zip (62 MB) — flight data for three months (DB size is about 700 MB)
 
-Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
-
-The installation of the databases in MSSQL Server will be shown in one of the course sessions.
+The installation of the databases in PostgreSQL will be shown in one of the course sessions.
