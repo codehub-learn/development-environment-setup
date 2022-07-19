@@ -51,3 +51,5 @@ Your Microsoft Azure account is complete and you can access the Microsoft Azure 
 
 # You can confirm that you are legible to 170 € for use on payed Azure services by clicking the notification bell on the top right corner of your dashboard.
 
+![Confirmation](http://url/to/img.png](https://github.com/codehub-learn/development-environment-setup/blob/main/images/Azure_Trial_Confimrmation.png?raw=true)
+
