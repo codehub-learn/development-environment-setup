@@ -26,7 +26,7 @@ Instructions on how to install and manage your plugins can be found here: **[Εx
 12. Download **[CentOS 7.8.2003 - Graphical Desktop image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/C/7/CentOS_7.8.2003_VBG.zip)**
 13. Download **[Ubuntu 20.04 LTS (Focal Fossa) image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/U/20.04/Ubuntu_20.04_VB.zip)**
 
-## Additionally, create accounts in the following websites
+### Additionally, create accounts in the following websites
 1. Create a **[Github account](https://github.com/join)**.
 2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)** with your Ath/Tech credentials.
 3. Create a **[Docker Hub account](https://hub.docker.com/)**.
