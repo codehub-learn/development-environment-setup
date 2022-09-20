@@ -11,6 +11,9 @@
 Several plugins should be also installed during the course such as ESLint and Live Server.
 Instructions on how to install and manage your plugins can be found here: **[Εxtension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)**
 
+## Data Visualization With Tableau
+- Download and install the free trial of [Tableau Desktop](https://www.tableau.com/products/desktop/download).
+
 ## Software Stack for DevOps
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
 2. Download and install **[Java JDK 11](https://adoptopenjdk.net/)**.
