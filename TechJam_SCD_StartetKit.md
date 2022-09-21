@@ -3,7 +3,7 @@
 ## Required Setup
 
 - Docker
-- Microsoft SQL Server Developer Edition
+- Microsoft SQL Server
 - Microsoft SQL Server Management Studio
 - Tableau
 
