@@ -2,9 +2,16 @@
 
 ## Required Setup
 
+- Docker
 - Microsoft SQL Server Developer Edition
 - Microsoft SQL Server Management Studio
 - Tableau
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## Docker
+
+Download and install Docker from Software on Demand 
 
 ## Microsoft SQL Server Developer Edition
 
