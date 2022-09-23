@@ -11,94 +11,6 @@
 Several plugins should be also installed during the course such as ESLint and Live Server.
 Instructions on how to install and manage your plugins can be found here: **[Εxtension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)**
 
-## Data Visualization With Tableau
-- Download and install the free trial of [Tableau Desktop](https://www.tableau.com/products/desktop/download).
-
-## Front-End Development with React
-
-Before starting please make sure that you have successfully installed the below dependencies on your development environment.
-
-- [Node.js](https://nodejs.org/en/) - is a JavaScript runtime built on Chrome's V8 JavaScript engine. We will use the latest LTS version.
-- [npm](https://www.npmjs.com/) - is the official Nodejs Package Manager (npm) which allows us to manage our dependencies and packages. It is automatically installed with nodejs, so you don't have to install it separately.
-- [git](https://git-scm.com/) / [github account](https://github.com/) - is a version control system for source code and Github is a community site that allows easy creation and collaboration on git projects.
-
-### Verifying installation
-
-After installing node please verify that you have setup everything correctly by typing the below commands on your terminal:
-
-- `node -v` ➡️ `v12.17.0` (any version >= 12 is fine, in my case the version is specifically v12.17.0)
-- `npm -v` ➡️ `6.14.4` (any version >= 6 is fine, in my case the version is specifically 6.14.4)
-
-### Code editor Extensions
-
-Inatall Visual Studio Code with the following extensions:
-
-- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Software Stack for DevOps
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Download and install **[Java JDK 11](https://adoptopenjdk.net/)**.
-3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
-4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
-5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
-6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)** **for project implementation**.
-7. Download  **[Minikube](https://minikube.sigs.k8s.io/docs/start/)** **for project implementation**.
-8. Download **[Jenkins LTS](https://www.jenkins.io/download/)**.
-9. Download **[Prometheus](https://prometheus.io/download/)**.
-10. Download **[Grafana](https://grafana.com/grafana/download)**.
-11. Download **[Terraform](https://www.terraform.io/downloads.html)**.
-12. Download **[CentOS 7.8.2003 - Graphical Desktop image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/C/7/CentOS_7.8.2003_VBG.zip)**
-13. Download **[Ubuntu 20.04 LTS (Focal Fossa) image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/U/20.04/Ubuntu_20.04_VB.zip)**
-
-### Additionally, create accounts in the following websites
-1. Create a **[Github account](https://github.com/join)**.
-2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)** with your Ath/Tech credentials.
-3. Create a **[Docker Hub account](https://hub.docker.com/)**.
-4. Create a **[Katacoda account](https://www.katacoda.com/)**.
-
-## Microsoft SQL Server Developer Edition
-
-For Windows, download the latest version of [MSSQL Server Developer edition](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads). This is free software and requires no registration.
-
-Execute the SQL2019-SSEI-Dev.exe, choose Download Media at a specified location 
-
-Use ISO packaging, mount and install 
-
-After checking your computer, make full installation, select all options and proceed using default settings 
-
-Add current user in all cases 
-
-For authentication, choose *mixed mode authentication* (it may be shown as *SQL Server and Windows Authentication mode*). If you are asked for a user name, use **sa**, and for the password use **passw0rd** (we will only use publicly available sample data for the project so we are ok with basic security) 
-
-### SQL Server Management Studio
-
-For Windows, download the latest version of [MSSQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15). This is free software and requires no registration.
-
-Once it is installed, run it and it will connect to the SQL Server that you installed in the previous step
-
-For authentication, choose *SQL server authentication*, and enter the user name and password which you created in the previous step for the SQL Server
-
-### AdventureWorks databases
-
-Go to [this page](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure) and download the following two databases (they are free to download and use): 
-
-- [AdventureWorksDW2012.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
-- [AdventureWorks2017.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
-
-Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
-
-The installation of the databases in MSSQL Server will be shown in one of the course sessions.
-
-
-## Data Iku Setup
-- Install Data Iku using the ready-to-go Virtual Box appliance.
-- Instructions are provided on [Data Iku's website](https://www.dataiku.com/product/get-started/virtualbox/).
-
 ## Recommended Setup for Python
 
 - Python > 3.7
@@ -112,7 +24,7 @@ The installation of the databases in MSSQL Server will be shown in one of the co
   - imbalanced-learn
   - sktime
 
-## How to set up your PC
+### How to set up your PC
 
 The Python part of this academy will mostly be done on Jupyter Notebooks. There are two ways to use this tool: locally or online. 
 
@@ -191,6 +103,72 @@ Install python and pip through the OS's default package manager. Then run step 4
 
 *Note: Most linux and OSX distributions have Python 2 preinstalled. This is not compatible with what we will be seeing in this course. Either install Python 3 locally, or use the online tool described above!* 
 
-## Other tools
-1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
-2. Create a **[Github account](https://github.com/join)**
+## Software Stack for DevOps
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
+2. Create a **[Github account](https://github.com/join)**.
+
+## Microsoft SQL Server Developer Edition
+
+For Windows, download the latest version of [MSSQL Server Developer edition](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads). This is free software and requires no registration.
+
+Execute the SQL2019-SSEI-Dev.exe, choose Download Media at a specified location 
+
+Use ISO packaging, mount and install 
+
+After checking your computer, make full installation, select all options and proceed using default settings 
+
+Add current user in all cases 
+
+For authentication, choose *mixed mode authentication* (it may be shown as *SQL Server and Windows Authentication mode*). If you are asked for a user name, use **sa**, and for the password use **passw0rd** (we will only use publicly available sample data for the project so we are ok with basic security) 
+
+### SQL Server Management Studio
+
+For Windows, download the latest version of [MSSQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15). This is free software and requires no registration.
+
+Once it is installed, run it and it will connect to the SQL Server that you installed in the previous step
+
+For authentication, choose *SQL server authentication*, and enter the user name and password which you created in the previous step for the SQL Server
+
+### AdventureWorks databases
+
+Go to [this page](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure) and download the following two databases (they are free to download and use): 
+
+- [AdventureWorksDW2012.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
+- [AdventureWorks2017.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
+
+Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
+
+The installation of the databases in MSSQL Server will be shown in one of the course sessions.
+
+## Data Visualization With Tableau
+- Download and install the free trial of [Tableau Desktop](https://www.tableau.com/products/desktop/download).
+
+## Front-End Development with React
+
+Before starting please make sure that you have successfully installed the below dependencies on your development environment.
+
+- [Node.js](https://nodejs.org/en/) - is a JavaScript runtime built on Chrome's V8 JavaScript engine. We will use the latest LTS version.
+- [npm](https://www.npmjs.com/) - is the official Nodejs Package Manager (npm) which allows us to manage our dependencies and packages. It is automatically installed with nodejs, so you don't have to install it separately.
+- [git](https://git-scm.com/) / [github account](https://github.com/) - is a version control system for source code and Github is a community site that allows easy creation and collaboration on git projects.
+
+### Verifying installation
+
+After installing node please verify that you have setup everything correctly by typing the below commands on your terminal:
+
+- `node -v` ➡️ `v12.17.0` (any version >= 12 is fine, in my case the version is specifically v12.17.0)
+- `npm -v` ➡️ `6.14.4` (any version >= 6 is fine, in my case the version is specifically 6.14.4)
+
+### Code editor Extensions
+
+Inatall Visual Studio Code with the following extensions:
+
+- [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+## Data Iku Setup
+- Install Data Iku using the ready-to-go [Virtual Box](https://www.virtualbox.org/wiki/Downloads) appliance.
+- Instructions are provided on [Data Iku's website](https://www.dataiku.com/product/get-started/virtualbox/).
