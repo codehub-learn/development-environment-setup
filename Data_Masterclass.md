@@ -160,7 +160,7 @@ After installing node please verify that you have setup everything correctly by 
 
 ### Code editor Extensions
 
-Inatall Visual Studio Code with the following extensions:
+Install Visual Studio Code with the following extensions:
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
