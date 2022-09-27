@@ -55,7 +55,7 @@ RCU is an executable bat file (for Windows) or SH (for Unix-based systems) file 
 In the wizard:
  1. Select *System Load and Product Load*
  2. Input the connection details for your Oracle database
- 3. In Select Components, ensure that *Master and Work Repositry* under *Oracle Data Integrator* is selected, along with the mandatory *Common Infarstructure Services* component.
+ 3. In Select Components, ensure that *Master and Work Repositry* under *Oracle Data Integrator* is selected, along with the mandatory *Common Infrastructure Services* component.
  4. In Custom Variables select the default options, like as follows:
 ![settings snapshot](https://github.com/codehub-learn/development-environment-setup/blob/main/images/RCU_2.png?raw=true)
  5. Make sure to note selected passwords.
