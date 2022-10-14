@@ -1,38 +1,83 @@
-# Oracle Database Enterprise Edition on Docker Container Guide
+# Starter Kit and Resources for Pfizer Tech Lab: Oracle Database Fundamentals Lab
 
-1) In order to download the oracle database through Docker, you need an Oracle account.
+## Required Setup
 
-2) Head to the follow link:
-https://container-registry.oracle.com/ords/f?p=113:10
+- Docker
+- Oracle Database Enterprise Edition
+- Oracle SQL Developer
 
-3) While in the website, click on "Database -> enterprise" and you should be located in a page with the title "Oracle Database Enterprise Edition"
+## Install Docker
 
-4) On the right side, there is a License Agreement you need to Accept. Before doing anything else, you are required to accept the license agreement. You can set English as the language.
+Docker installation instructions can be seen [in this link](https://docs.docker.com/desktop/install/windows-install/). If you do not want to study the instructions there, we have summarized the process that you need to follow in the next steps. The process will require administration access during many of the steps described here.
 
-5) Run docker, then open a terminal and write the following command to sign in with your Oracle account:
-docker login container-registry.oracle.com
+  1.	Download **Desktop Docker for Windows installer** (https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe, approximately 540 MB)
 
-6) Pull the oracle EE image:
-docker pull container-registry.oracle.com/database/enterprise:21.3.0.0
+  2.	Run the Docker installer. **You will need administrator access for this step**.
 
-7) Create a docker container from the image:
-docker run -d --name ee -p 1521:1521 container-registry.oracle.com/database/enterprise:21.3.0.0
+  3.	The installer will give the option of “**Use WSL 2 instead of Hyper-V**” on a configuration page which it will show you. You **MUST** select the option of “Use WSL 2…”.  Because of this, the installer will install WSL 2, the Windows Subsystem for Linux. **You might need administrator access for this step**.
 
-8) The initialization phase of the image takes a long time (~10-15 mins), so in order to see the progress of the phase, write the following in the same terminal window you used to run the container:
-docker logs --follow ee
+  4.	The installer will perform one or more restarts during installation. Once again, after your machine restarts **you might or might not be asked to need administrator access one more time for the installation to complete**.
 
-9) When the setup completes, open a new terminal window and run the following:
-docker exec ee ./setPassword.sh 1234
+  5.	When the installer is complete, you need to add your Windows name to a user group which can control Docker. To do so, start the **command prompt tool with administrator rights**. The folder/directory that you are in is not important. Simply type in the following command in it, **by replacing <user_name> with your Windows user name**
+ 
+                                                        net localgroup docker-users <user_name> /add
+                                                        
+  ![image](https://user-images.githubusercontent.com/92853201/191688879-960e1b84-9bcd-41e7-aea1-514ecf81a5a6.png)
 
-10) In the same terminal window, run the following command to connect directly to the container environment:
-docker exec -it ee sh
+  6.	When you run the above command, if you happen to get ‘System error 1378’ that ‘The specified account name is already a member of the group', **that is ok**, you do not need to worry.
 
-11) Then, start the database listener service using the following command:
-lsnrctl start
+The installation is over and you should now be able to start Docker from the start menu; do so because it is needed for the **next installation**.
 
-11) Next, you need to connect to the database. The command  is the following:
-sqlplus sys/1234@ORCLCDB as sysdba
+## Oracle Database Enterprise Edition on Docker Container
 
-12) Congratulations! You connected to the Oracle Database Server and now you can use it.
+1.    In order to download the oracle database through Docker, you need an Oracle account. Head to [this link](https://container-registry.oracle.com/ords/f?p=113:10).
 
-13) Download Oracle SQL Developer (Windows 64-bit with JDK 11 included) from https://www.oracle.com/database/sqldeveloper/technologies/download/
+2.    While in the website, click on "Database -> enterprise" and you should be located in a page with the title "Oracle Database Enterprise Edition"
+
+3.    On the right side, there is a License Agreement you need to Accept. Before doing anything else, you are required to accept the license agreement. You can set English as the language.
+   
+4.    Run docker, then open a terminal and write the following command to sign in with your Oracle account:
+
+
+                                                      docker login container-registry.oracle.com
+
+5.    Pull the oracle EE image:
+
+
+                                         docker pull container-registry.oracle.com/database/enterprise:21.3.0.0
+
+6.    Create a docker container from the image:
+
+
+                            docker run -d --name ee -p 1521:1521 container-registry.oracle.com/database/enterprise:21.3.0.0
+
+7.    The initialization phase of the image takes a long time (~10-15 mins), so in order to see the progress of the phase, write the following in the same terminal window you used to run the container:
+
+
+                                                                docker logs --follow ee
+
+8.    When the setup completes, open a new terminal window and run the following:
+
+
+                                                         docker exec ee ./setPassword.sh 1234
+
+9.    In the same terminal window, run the following command to connect directly to the container environment:
+
+
+                                                                  docker exec -it ee sh
+
+10.   Then, start the database listener service using the following command:
+
+
+                                                                     lsnrctl start
+
+11.   Next, you need to connect to the database. The command  is the following:
+
+
+                                                          sqlplus sys/1234@ORCLCDB as sysdba
+
+You connected to the Oracle Database Server and now you can use it.
+
+## Oracle SQL Developer
+
+Download Oracle SQL Developer (Windows 64-bit with JDK 11 included) from [this link](https://www.oracle.com/database/sqldeveloper/technologies/download/). This is the portable format, so all you have to do is unzip the file and run the executable and then the installation is complete.
