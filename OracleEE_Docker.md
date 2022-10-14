@@ -1,4 +1,4 @@
-# Starter Kit and Resources for Pfizer Tech Lab: Oracle Database Fundamentals Lab
+# Starter Kit and Resources: Oracle Database Fundamentals Lab
 
 ## Required Setup
 
