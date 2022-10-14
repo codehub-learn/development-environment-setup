@@ -49,17 +49,17 @@ The installation is over and you should now be able to start Docker from the sta
 6.    Create a docker container from the image:
 
 
-                            docker run -d --name ee -p 1521:1521 container-registry.oracle.com/database/enterprise:21.3.0.0
+                            docker run -d --name oracle-ee -p 1521:1521 container-registry.oracle.com/database/enterprise:21.3.0.0
 
-7.    The initialization phase of the image takes a long time (~10-15 mins), so in order to see the progress of the phase, write the following in the same terminal window you used to run the container:
+7.    The initialization phase of the image takes a long time (it might be 10 minutes or more), so in order to see the progress of the phase, write the following in the same terminal window you used to run the container:
 
 
-                                                                docker logs --follow ee
+                                                                docker logs --follow oracle-ee
 
 8.    When the setup completes, open a new terminal window and run the following:
 
 
-                                                         docker exec ee ./setPassword.sh 1234
+                                                         docker exec oracle-ee ./setPassword.sh password1234
 
 9.    In the same terminal window, run the following command to connect directly to the container environment:
 
@@ -74,7 +74,7 @@ The installation is over and you should now be able to start Docker from the sta
 11.   Next, you need to connect to the database. The command  is the following:
 
 
-                                                          sqlplus sys/1234@ORCLCDB as sysdba
+                                                          sqlplus sys/password1234@ORCLCDB as sysdba
 
 You connected to the Oracle Database Server and now you can use it.
 
