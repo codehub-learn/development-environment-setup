@@ -34,3 +34,5 @@ lsnrctl start
 sqlplus sys/1234@ORCLCDB as sysdba
 
 12) Congratulations! You connected to the Oracle Database Server and now you can use it.
+
+13) Download Oracle SQL Developer (Windows 64-bit with JDK 11 included) from https://www.oracle.com/database/sqldeveloper/technologies/download/
