@@ -80,4 +80,10 @@ You connected to the Oracle Database Server and now you can use it.
 
 ## Oracle SQL Developer
 
-Download Oracle SQL Developer (Windows 64-bit with JDK 11 included) from [this link](https://www.oracle.com/database/sqldeveloper/technologies/download/). This is the portable format, so all you have to do is unzip the file and run the executable and then the installation is complete.
+Oracle SQL Developer is a free tool for interacting with the Oracle Database. 
+
+To be able to download it from the Oracle website, you will first need to have an account with Oracle or create a new account (it is free to do so). 
+
+Download Oracle SQL Developer (Windows 64-bit with JDK 11 included) from [this link](https://www.oracle.com/database/sqldeveloper/technologies/download/). 
+
+This is the portable format, so once the file has been downloaded, unzip it the location of your choice and the installation is complete. You can immediately run the executable. Make sure that the Docker container for Oracle is running, and you should be able to connect to it and send your SQL commands.
