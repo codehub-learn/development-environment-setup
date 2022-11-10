@@ -1,4 +1,4 @@
-# Hardware and software requirements for Java Standard Edition development
+# Hardware and software requirements for Java Standard Edition development (Java SE 17)
 &nbsp;
 &nbsp;
 
