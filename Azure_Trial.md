@@ -15,8 +15,11 @@ Credit card information.
 Visit https://azure.microsoft.com/en-us/free/
  
 ## Step 2
-Click on the “Get Started” button.
+Click on the “Start free” button.
 And login with a Microsoft account.
+
+![Confirmation](https://github.com/codehub-learn/development-environment-setup/blob/main/howToregister.png?raw=true)
+
 
 ## Step 3
 Fill in the mandatory profile information which were not automatically filled in, such as your e-mail address and your phone number.
