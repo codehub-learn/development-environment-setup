@@ -1,22 +1,16 @@
-# Hardware and software requirements for Java Standard Edition development (Java SE 11)
+# Hardware and software requirements for Java Standard Edition development (Java SE 11 or later)
 &nbsp;
 &nbsp;
 
 ## Workstation specifications
-- Windows 10 or Linux or MacOS, 64 bit
-- RAM, 8GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
+- Windows 10/11 or Linux or MacOS, 64 bit
+- Minimum of 8GB RAM, 16GB preferable
+- Minimum of 128 GB Storage (SSD would be preferrable)
+- Minimum of 4-Core CPU
 
 ## Development IDE
-**[Download IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. In case you already have it installed and your license has expired, we will provide you a valid license for the duration of the course. In case you prefer using another IDE, that's also fine as the examples do not make use of any IDE specific functionality. 
+**[Download IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. If you do not have a licence available, Code.Hub will provide you with one for the duration of the course. 
 
 ## Java Development Tools
-1. Java Development Toolkit, download and install the latest LTS version **[JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox)** (requires free account with Oracle). Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
-2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through Maven dependency management mechanism, we will download every library needed in our projects.  Create then an environmental variable named **MVN_HOME** pointing to Maven's installation folder.
-3. Add **%JAVA_HOME%/bin** and **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
-
-## Other tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Create a **[Github account](https://github.com/join)**.
-
+1. Java Development Toolkit: download and install Java 11 **[JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox)** (requires free account with Oracle). If you have Java 17 already installed, you do not need to install Java 11; use Java 17 instead.
+2. Create an environmental variable named **JAVA_HOME** pointing to JDK installation folder. Also add **%JAVA_HOME%/bin** and **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
