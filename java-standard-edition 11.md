@@ -13,4 +13,4 @@ Download and install the latest version of **[IntelliJ IDEA Community Edition](h
 
 ## Java Development Tools
 1. Java Development Toolkit: download and install Java 11 **[JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox)** (requires free account with Oracle). If you have Java 17 already installed, you do not need to install Java 11; use Java 17 instead.
-2. Create an environmental variable named **JAVA_HOME** pointing to JDK installation folder. Also add **%JAVA_HOME%/bin** your **PATH** envrionmental variable.
+2. Create an environmental variable named **JAVA_HOME** pointing to JDK installation folder. Also add **%JAVA_HOME%/bin** to your **PATH** envrionmental variable.
