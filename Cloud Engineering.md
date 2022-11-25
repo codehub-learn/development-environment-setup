@@ -1,5 +1,5 @@
 ## Azure Account
-**[Create a student Azure Account using your Ath.Tech email](https://azure.microsoft.com/en-us/free/students/)
+[Create a student Azure Account using your Ath.Tech email](https://azure.microsoft.com/en-us/free/students/)
 
 
 ## Development Tools
