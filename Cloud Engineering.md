@@ -13,4 +13,4 @@ The **[PowerShell Extension For Visual Studio Code](https://code.visualstudio.co
 
 **[The latest version of PowerShell](https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=us)**
 
-**[Install Azure PowerShell on Windows]([https://apps.microsoft.com/store/detail/powershell/9MZ1SNWT0N5D?hl=en-us&gl=us](https://learn.microsoft.com/en-us/powershell/azure/install-az-ps-msi?view=azps-9.1.0))**
+**[Install Azure PowerShell on Windows](https://learn.microsoft.com/en-us/powershell/azure/install-az-ps-msi?view=azps-9.1.0)**
