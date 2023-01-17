@@ -4,7 +4,7 @@
 Use the following [guidelines](https://github.com/codehub-learn/development-environment-setup/blob/main/spring.md) for the installation of Java and the Spring Framework. 
 
 ## Microsoft SQL Server
-Use the following [guidelines](https://github.com/codehub-learn/MS-SQL-Server-) for the requirements and installation of MSSQL. There are two methods for installing the server. The second method requires the installation of Docker.
+Use the following [guidelines](https://github.com/codehub-learn/MS-SQL-Server-) for the installation of MSSQL. There are two methods to install the server. The second method requires the installation of Docker.
 
 ## JavaScript & Angular & React
 Use the following [guidelines](https://github.com/codehub-learn/development-environment-setup/blob/main/angular-starter-kit.md) to install the required technologies and tools for running JavaScript, Angular and React.
