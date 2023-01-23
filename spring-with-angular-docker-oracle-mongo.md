@@ -25,7 +25,7 @@ functionality.
    the **[instructions](https://maven.apache.org/install.html)**. Through Maven dependency management mechanism, we will
    download every library needed in our projects. Create then an environmental variable named **MVN_HOME** pointing to
    Maven's installation folder.
-3. Add **%JAVA_HOME%/bin** and **%MVN_HOME%/bin** to your **PATH** envrionmental variable.
+3. Add **%JAVA_HOME%\bin** and **%MVN_HOME%\bin** to your **PATH** envrionmental variable.
 
 ## Angular
 
