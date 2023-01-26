@@ -9,5 +9,5 @@ Use the following [guidelines](https://github.com/codehub-learn/MS-SQL-Server-) 
 ## JavaScript & Angular & React
 Use the following [guidelines](https://github.com/codehub-learn/development-environment-setup/blob/main/Javascript_Angular_&_React.md) to install the required technologies and tools for running JavaScript, Angular and React.
 
-## AWS
-Use the following [link](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) to set up an account on AWS.
+## (Optional) AWS
+Use the following [link]([https://aws.amazon.com/free/?all-free-tier) to set up an account on AWS.
