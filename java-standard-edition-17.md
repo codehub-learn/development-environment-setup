@@ -17,7 +17,6 @@
 3. Add **%JAVA_HOME%\bin** and **%MVN_HOME%\bin** to your **PATH** envrionmental variable.
 
 ## Other tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Create a **[Github account](https://github.com/join)**.
-
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)**. If you have an older version of git, it is recommended that you update to the latest version.
+2. Create a **[Github account](https://github.com/join)** if you don't already have one (it is free).
 
