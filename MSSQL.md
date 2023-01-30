@@ -22,7 +22,7 @@ For authentication, choose *mixed mode authentication* (it may be shown as *SQL 
 
 ## SQL Server Management Studio
 
-For Windows, download the latest version of [MSSQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15). This is free software and requires no registration.
+For Windows, download the latest version of [MSSQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16). This is free software and requires no registration.
 
 Once it is installed, run it and it will connect to the SQL Server that you installed in the previous step
 
