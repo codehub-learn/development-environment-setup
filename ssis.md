@@ -15,7 +15,3 @@ Getting your workstation ready for SQL Server Integration Services (SSIS) packag
 1. An **[SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**  or better instance **with the Integration Services component installed**. Refer to **[Microsoft's Guide](https://learn.microsoft.com/en-us/sql/integration-services/install-windows/install-integration-services?view=sql-server-ver16)**
 2. The **[SQL Server Integration Services Projects extension](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects)** installed for Visual Studio. 
 3. **[SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)** (SSMS) 
-
-## Other tools 
-1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
-2. Create a **[Github account](https://github.com/join)**
