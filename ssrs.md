@@ -28,16 +28,12 @@ Once it is installed, run it and it will connect to the SQL Server that you inst
 
 For authentication, choose *SQL server authentication*, and enter the user name and password which you created in the previous step for the SQL Server
 
-## AdventureWorks databases
-
-Go to [this page](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure) and download the following two databases (they are free to download and use): 
+## Sample databases
 
 - [AdventureWorksDW2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
 - [AdventureWorks2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
 - [WideWorldImporters.bak](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak)
 - [WideWorldImportersDW.bak](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bak)
-
-Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
 
 The installation of the databases in SQL Server will be shown in one of the course sessions.
 
