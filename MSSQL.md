@@ -35,7 +35,7 @@ Go to [this page](https://docs.microsoft.com/en-us/sql/samples/adventureworks-in
 - [AdventureWorksDW2012.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
 - [AdventureWorks2017.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2017.bak)
 
-Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
+Be careful with the database names, there are many databases available on that page with similar looking names. Be sure that you have selected the right ones.
 
 The installation of the databases in MSSQL Server will be shown in one of the course sessions.
 
