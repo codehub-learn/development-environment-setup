@@ -34,6 +34,8 @@ Go to [this page](https://docs.microsoft.com/en-us/sql/samples/adventureworks-in
 
 - [AdventureWorksDW2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
 - [AdventureWorks2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
+- [WideWorldImporters.bak](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak)
+- [WideWorldImportersDW.bak](https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImportersDW-Full.bak)
 
 Be careful with the database names, there are many databases available on that page with similar sounding names. Be sure that you have selected the right ones.
 
@@ -41,7 +43,7 @@ The installation of the databases in SQL Server will be shown in one of the cour
 
 ## Development IDE 
 
-**[Visual Studio 2022 Community](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
+**[Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/community/)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
 
 ## SQL Server Development Tools 
 The **[SQL Server Reporting Services Projects](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio2022))** installed for Visual Studio. 
