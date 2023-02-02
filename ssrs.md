@@ -11,7 +11,7 @@
 
 For Windows, download the latest version of [MSSQL Server Developer edition](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads). This is free software and requires no registration.
 
-Execute the SQL2019-SSEI-Dev.exe, choose Download Media at a specified location 
+Execute the SQL20XX-SSEI-Dev.exe, choose Download Media at a specified location 
 
 Use ISO packaging, mount and install 
 
