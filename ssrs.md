@@ -46,4 +46,4 @@ The installation of the databases in SQL Server will be shown in one of the cour
 **[Visual Studio 2022 Community](https://visualstudio.microsoft.com/vs/community/)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
 
 ## SQL Server Development Tools 
-The **[SQL Server Reporting Services Projects](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio2022))** installed for Visual Studio. 
+The **[SQL Server Reporting Services Projects](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio2022)** installed for Visual Studio. 
