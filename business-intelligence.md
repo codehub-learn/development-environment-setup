@@ -1,10 +1,10 @@
 # Hardware and software requirements for Business Intelligence
 &nbsp;
 
-## PC's specs
+## Minimum Hardware Specifications
 - 8 GB RAM
 - 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
+- 2 Core CPU
 - Windows 10, 64 bit
 
 ## Important notice
@@ -14,16 +14,15 @@ Mac or Linux users can install MS-SQL server using Docker. Instead of Management
 You will need the MS-SQL Server database (RDBMS), the MS-SQL Server management interface and the Power BI desktop application.
 In detail you have to download:
 
-1.  [SQL Server Developer 2019 ](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-    - Download the Developer edition (SQL2019-SSEI-Dev.exe)
+1.  Latest Version of [SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+    - Download the Developer edition (SQL20XX-SSEI-Dev.exe)
     - Execute the SQL2019-SSEI-Dev.exe and perform a default installation.
 
-1.  [SQL Server Management Studio, SSMS 18.5.1](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
+2.  Latest version of [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 and install the SSMS-Setup-ENU.exe file.
 
-3. Power BI
-**[Download the Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)**
-and install the PBIDesktopSetup_x64.exe.
+3. Latest version of Power BI
+**[Download the Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)** and install the PBIDesktopSetup_x64.exe.
 
 &nbsp;
 &nbsp;
@@ -32,9 +31,9 @@ and install the PBIDesktopSetup_x64.exe.
 
 ## AdventureWorks download links 
 
-[OLTP version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak)
+[OLTP version of AdventureWorks 2012](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2012.bak)
 
-[DW version of AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
+[DW version of AdventureWorks 2012](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2012.bak)
 
 ## Restore instructions
 Follow the below steps to restore a backup of your database using SQL Server Management Studio.
