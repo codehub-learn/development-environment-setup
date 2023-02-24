@@ -3,7 +3,8 @@
 ## Recommended Setup
 
 ?
-- Python > 3.7
+- R > 0.01
+- other tool
 ?
 
 ## How to set up your PC
