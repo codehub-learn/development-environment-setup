@@ -2,15 +2,17 @@
 
 ## Recommended Setup
 
-?
-- R version 999.99, download from [here](https://www.r.com/version999/r.exe)
+- R version 999.99
+- For Windows, download from [here](https://www.r.com/version999/r.exe)
+- For Mac and Linux, download from [here](https://www.r.com/version999/r_linux)
 - other tool
-?
 
-## How to set up your PC
+## How to set up your computer
 
-This course will mostly be done on ???????????. There are two ways to use this tool: ??????????
+This course will mostly using R from the command line. You need to have administrator access to CMD or PowerShell.
+
 ## Development IDE
+
 **[Download R IDE](https://www.r.com/ide/)** and install.
 
 
