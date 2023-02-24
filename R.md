@@ -3,7 +3,7 @@
 ## Recommended Setup
 
 ?
-- R > 0.01
+- R version 999.99, download from [here](https://www.r.com/version999/r.exe)
 - other tool
 ?
 
