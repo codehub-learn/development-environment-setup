@@ -12,5 +12,5 @@ When the Basic Setup is compete, some additional packages are required to be dow
 -	Open RStudio
 -	Open the file R_packages_to_install.R
 -	Select all the lines and press Run from above, or copy and paste them in the console window and press ENTER
--	During installation choose default answers for all questions
+-	During installation, choose default answers for all questions
 
