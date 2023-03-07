@@ -1,20 +1,16 @@
 # Starter Kit and Resources for R
 
-## Recommended Setup
+## Basic Setup
 
-- R version **999.99 or later**
-- For Windows, download from **[here](https://www.r.com/version999/r.exe)**
-- For Mac and Linux, download from **[here](https://www.r.com/version999/r_linux)**
-- other tool
+- Install the R language by downloading "CRAN' and following the instructions at **[r-project] (http://www.r-project.org/)**
+- Install the RStudio IDE for Windows from rstudio.org **[rstudio.org] (http://www.rstudio.org/)**
 
-## How to set up your computer
+## Additional Packages
 
-This course will mostly using R from the command line. You need to have **administrator access to CMD or PowerShell**.
+Some additional packages are required to be downloaded and installed.with the following method:
 
-## Development IDE
+-	Open RStudio
+-	Open the file R_packages_to_install.R
+-	Select all the lines and press Run from above, or copy and paste them in the console window and press ENTER
+-	During installation choose default answers for all questions
 
-**[Download R IDE](https://www.r.com/ide/)** and install.
-
-## Other tools
-1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
-2. Create a **[Github account](https://github.com/join)**
