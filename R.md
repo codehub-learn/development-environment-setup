@@ -7,7 +7,7 @@
 
 ## Additional Packages
 
-Some additional packages are required to be downloaded and installed.with the following method:
+When the above installtions are compete, some additional packages are required to be downloaded and installed.with as follows:
 
 -	Open RStudio
 -	Open the file R_packages_to_install.R
