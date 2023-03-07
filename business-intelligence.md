@@ -18,12 +18,11 @@ In detail you have to download:
     - Download the Developer edition (SQL20XX-SSEI-Dev.exe)
     - Execute the SQL2019-SSEI-Dev.exe and perform a default installation.
 
-2.  Latest version of [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
-and install the SSMS-Setup-ENU.exe file.
+2.  Latest version of [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+    - download and install the SSMS-Setup-ENU.exe file.
 
 3. Latest version of Power BI
-
-**[Download the Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)** and install the PBIDesktopSetup_x64.exe.
+   - Download the **[Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)** and install the PBIDesktopSetup_x64.exe.
 
 &nbsp;
 &nbsp;
