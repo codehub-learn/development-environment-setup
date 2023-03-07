@@ -7,7 +7,7 @@
 
 ## Additional Packages
 
-When the above installtions are compete, some additional packages are required to be downloaded and installed.with as follows:
+When the Basic Setup is compete, some additional packages are required to be downloaded and installed.with as follows:
 
 -	Open RStudio
 -	Open the file R_packages_to_install.R
