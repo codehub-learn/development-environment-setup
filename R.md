@@ -2,8 +2,8 @@
 
 ## Basic Setup
 
-- Install the R language by downloading "CRAN' and following the instructions at **[r-project] (http://www.r-project.org/)**
-- Install the RStudio IDE for Windows from rstudio.org **[rstudio.org] (http://www.rstudio.org/)**
+- Install the R language by downloading "CRAN' and following the instructions at **r-project (http://www.r-project.org/)**
+- Install the RStudio IDE for Windows from rstudio.org **rstudio.org (http://www.rstudio.org/)**
 
 ## Additional Packages
 
