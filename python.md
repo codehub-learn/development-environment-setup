@@ -78,7 +78,8 @@ We recommend using it through your google drive. You can set it up like this:
     - Open a command prompt and type the command `pip`.
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python scripy: `python get-pip.py`.
- 4. Download **[requirements.txt](requirements.txt)** and install them with pip: `pip install -r requirements.txt`.
+4. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
+5. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required will be pointed out in class.
 
 ### Locally (other OS)
 
@@ -90,7 +91,7 @@ Install python and pip through the OS's default package manager. Then run step 4
 ## Development IDE
 **[Download PyCharm](https://www.jetbrains.com/pycharm/)** and install.
 
-
 ## Other tools
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
 2. Create a **[Github account](https://github.com/join)**
+
