@@ -1,4 +1,4 @@
-# Starter Kit and Resources for Python and Data Science
+# Starter Kit and Resources for Natural Language Processing in Python
 
 ## Recommended Setup
 
@@ -10,8 +10,8 @@
   - matplotlib
   - seaborn
   - scikit-learn
-  - imbalanced-learn
-  - sktime
+  - tensorflow
+  - transformers
 
 ## How to set up your PC
 
@@ -85,7 +85,7 @@ We recommend using it through your google drive. You can set it up like this:
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python scripy: `python get-pip.py`.
 4. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
-5. Download **[requirements-ds.txt](requirements-ds.txt)** and install them with pip: `pip install -r requirements-ds.txt`.
+5. Download **[requirements-nlp.txt](requirements-nlp.txt)** and install them with pip: `pip install -r requirements-nlp.txt`.
 
 ### Locally (other OS)
 
