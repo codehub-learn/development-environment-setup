@@ -5,7 +5,7 @@
 - Microsoft SQL Server Developer Edition
 - Microsoft SQL Server Management Studio
 - Analysis Services (SSAS) (SQL Server Component and Visual Studio Extension)
-- Integration Servies (SSIS) (SQL Server Component and Visual Studio Extension)
+- Integration Services (SSIS) (SQL Server Component and Visual Studio Extension)
 - Power BI Desktop
 - Visual Studio 2019 Community
 - AdventureWorks sample databases
@@ -51,7 +51,7 @@ The installation of the databases in MSSQL Server will be shown in one of the co
 2. The **[SQL Server Integration Services Projects extension](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects)** installed for Visual Studio. 
 
 ## Power BI
-Download **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe or download it from the **[Windows Store](https://www.microsoft.com/en-us/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab)
+Download **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe or download it from the **[Windows Store]**(https://www.microsoft.com/en-us/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab)
 
 ## Other tools 
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
