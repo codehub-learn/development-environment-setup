@@ -11,7 +11,6 @@ Follow the guide below to prepare your Azure account and to enable one of the av
 ## Git & GitHub
 
 - Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-
 - Create a **[GitHub account](https://github.com/join)**.
 
 ## Other
