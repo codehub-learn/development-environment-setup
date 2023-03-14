@@ -4,8 +4,8 @@
 
 Follow the guide below to prepare your Azure account and to enable one of the available trials:
 
-- Method 1 (requires telephone number & academic or Ath/Tech e-mail): [link](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Student_Trial.md)
-- Method 2 (requires credit card information): [link](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Trial.md)
+- [Method 1](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Student_Trial.md) (requires telephone number & academic or Ath/Tech e-mail).
+- [Method 2](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Trial.md) (requires credit card information).
   
 
 ## Git & GitHub
