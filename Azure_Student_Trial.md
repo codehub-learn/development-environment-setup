@@ -1,6 +1,7 @@
 # Instructions for creating an educational Azure Account
 
-In order to follow the course(s), you will need to have credits in your Azure account. One of the easiest ways to obtain these credits is by applying for an Azure for Students subscription through the following link: https://azure.microsoft.com/en-us/free/students/
+In order to follow the course(s), you will need to have credits in your Azure account. One of the easiest ways to obtain these credits is by applying for an Azure for Students subscription through the following [link](https://azure.microsoft.com/en-us/free/students/
+).
 
 ## Required Setup
 - Academic E-mail OR
@@ -26,7 +27,7 @@ In order to follow the course(s), you will need to have credits in your Azure ac
 Note: If the end of the subscription has been reached (because you activated the trial sometime in the past), you can also renew (extend) the subscription and you will start anew.
 
 
-4. Follow all the steps and finish the registration. Afterwards, head to the following link (Azure Portal): https://portal.azure.com/:
+4. Follow all the steps and finish the registration. Afterwards, head to the following [link](https://portal.azure.com/) (Azure Portal).
 ![img_4.png](images/azure_for_students_img_4.png)
 
 
