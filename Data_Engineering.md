@@ -7,14 +7,14 @@
 - Analysis Services (SSAS) (SQL Server Component and Visual Studio Extension)
 - Integration Services (SSIS) (SQL Server Component and Visual Studio Extension)
 - Power BI Desktop
-- Visual Studio 2019 Community
+- Visual Studio Community
 - AdventureWorks sample databases
 
 ## Microsoft SQL Server Developer Edition
 
 For Windows, download the latest version of **[MSSQL Server Developer edition](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads)**. This is free software and requires no registration.
 
-Execute the SQL2019-SSEI-Dev.exe, choose Download Media at a specified location 
+Execute the SQL20XX-SSEI-Dev.exe, choose Download Media at a specified location 
 
 Use ISO packaging, mount and install 
 
@@ -44,11 +44,11 @@ The installation of the databases in MSSQL Server will be shown in one of the co
 
 ## Development IDE 
 
-**[Visual Studio 2019 Community](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
+**[Visual Studio Community](https://visualstudio.microsoft.com/downloads/)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
 
 ## SQL Server Development Tools 
-1. The **[SQL Server Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects)** installed for Visual Studio. 
-2. The **[SQL Server Integration Services Projects extension](https://marketplace.visualstudio.com/items?itemName=SSIS.SqlServerIntegrationServicesProjects)** installed for Visual Studio. 
+1. The **[SQL Server Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022)** installed for Visual Studio. 
+2. The **[SQL Server Integration Services Projects extension](https://marketplace.visualstudio.com/items?itemName=SSIS.MicrosoftDataToolsIntegrationServices)** installed for Visual Studio. 
 
 ## Power BI
 Download **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)** and install the PBIDesktopSetup_x64.exe or download it from the **[Windows Store](https://www.microsoft.com/en-us/p/power-bi-desktop/9ntxr16hnw1t#activetab=pivot:overviewtab)**
