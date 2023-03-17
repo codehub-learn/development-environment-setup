@@ -1,4 +1,4 @@
-# Javascript & Node.JS
+# Javascript, Angular & React
 
 ## Software Requirements
 
