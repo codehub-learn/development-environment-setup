@@ -22,6 +22,9 @@ and follow the **[instructions](https://maven.apache.org/install.html)**.
 ## Database Tools
 1. See the instructions for **[installing](https://github.com/codehub-learn/development-environment-setup/blob/main/MSSQL.md)** the MS SQL Server and the MS SQL Studio Management tool
 
+## Application Server
+1. Download **[WildFly 27.0.1](https://www.wildfly.org/downloads/)**. 
+
 ## Other Tools
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
 2. Create a **[Github account](https://github.com/join)**.
