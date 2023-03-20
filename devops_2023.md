@@ -4,10 +4,9 @@ Getting your system ready for DevOps module
 &nbsp;
 
 ## Hardware specifications
-- Windows 10 or Linux or MacOS, 64 bit
+- Windows 10, Linux or MacOS, 64 bit
 - RAM, 8GB required, 16GB is recommended
-- 30 GB of free disk storage, space on SSD is recommended
-- CPU which supports virtualization
+- 30 GB of free disk space, use of SSD is recommended
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
@@ -16,8 +15,8 @@ Getting your system ready for DevOps module
 4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
 5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
 6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**. Depending on your hardware on operating system, Docker might ask you to enable CPU virtualization support and install Windows Subsystem for Linux, WSL. All you need to do for these is to simply follow the instructions that Docker will give you.
-7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version **[Python 3](https://www.python.org/downloads/windows/)**, so make sure you have that installed first. Also, the virtual machine which runs Ansible requires Linux to run, or a Linux subsystem for Windows (WSL), which you will have available if you have already installed Docker from the previous step.
-8.  Download  and install **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
+7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version of **[Python 3](https://www.python.org/downloads/windows/)**, so make sure that you have installed Python first. Also, Ansible sets up its own Linux virtual machine, so for Windows you will need the **[Linux Subsystem for Windows (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)**, which was already installed with Docker in the previous step.
+8. Download  and install **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
 9. Download and install **[Jenkins LTS](https://www.jenkins.io/download/)**.
 10. Download and install **[Prometheus](https://prometheus.io/download/)**.
 11. Download and install the latest Enterprise edition version (9.4.3 or later) of **[Grafana](https://grafana.com/grafana/download)**.
