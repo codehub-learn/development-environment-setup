@@ -5,7 +5,7 @@ In order to follow the course(s), you will need to have credits in your Azure ac
 
 ## Required Setup
 - Academic E-mail OR
-- Ath/Tech E-mail
+- AthTech E-mail
 
 ## Step-by-step
 
