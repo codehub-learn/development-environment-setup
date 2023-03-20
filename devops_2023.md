@@ -1,13 +1,13 @@
-# Hardware and Software requirements for DevOps.
-Getting your workstation ready for DevOps module.
+# Installation requirements for DevOps
+Getting your system ready for DevOps module
 &nbsp;
 &nbsp;
 
-## Workstation specifications
+## Hardware specifications
 - Windows 10 or Linux or MacOS, 64 bit
-- RAM, 8GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
+- RAM, 8GB required, 16GB is recommended
+- 30 GB of free disk storage, space on SSD is recommended
+- CPU which supports virtualization
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
@@ -27,8 +27,5 @@ Getting your workstation ready for DevOps module.
 
 ## Create an account in the following websites
 1. Create a **[Github account](https://github.com/join)**.
-2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)**. Go to the link that is given here, click on the 'Start free', provide your AthTech credentials and follow the instructions. You will be asked for some information, but you will NOT need to provide credit card details - if this happens then you have logged in from a different incorrect link.
+2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)**. Go to the link that is given here, click on the 'Start free', provide your AthTech credentials and follow the instructions. You will be asked for some information, including a mobile phone number which is not linked to another student account, but you will NOT need to provide credit card details - if this happens then you have followed an incorrect link.
 3. Create a **[Docker Hub account](https://hub.docker.com/)**.
-
-
-
