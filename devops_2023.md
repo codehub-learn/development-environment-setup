@@ -11,7 +11,7 @@ Getting your system ready for DevOps module
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Download and install Java 11 or later **[Java JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**.
+2. Download and install Java 11 or later (**[Java JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**).
 3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
 4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
 5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
@@ -22,8 +22,8 @@ Getting your system ready for DevOps module
 10. Download **[Prometheus](https://prometheus.io/download/)**.
 11. Download the latest Enterprise edition version (9.4.3 or later) of **[Grafana](https://grafana.com/grafana/download)**.
 12. Download **[Terraform](https://www.terraform.io/downloads.html)**.
-13. Download **[CentOS 8.4.2105 - VirtualBox GRAPHICAL INSTALLATION image](https://www.linuxvmimages.com/images/centos-8/)**
-14. Download **[Ubuntu 22.04 LTS VirtualBox image](https://www.linuxvmimages.com/images/ubuntu-2204/)**
+13. Download **[CentOS 8.4.2105 - VirtualBox GRAPHICAL INSTALLATION image](https://www.linuxvmimages.com/images/centos-8/)** to run in VirtualBox.
+14. Download **[Ubuntu 22.04 LTS VirtualBox image](https://www.linuxvmimages.com/images/ubuntu-2204/)** to run in VirtualBox.
 
 ## Create an account in the following websites
 1. Create a **[Github account](https://github.com/join)**.
