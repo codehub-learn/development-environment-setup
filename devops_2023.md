@@ -24,7 +24,7 @@ Getting your system ready for DevOps module
 13. Download **[CentOS 8.4.2105 - VirtualBox GRAPHICAL INSTALLATION image](https://www.linuxvmimages.com/images/centos-8/)** to run in VirtualBox.
 14. Download **[Ubuntu 22.04 LTS VirtualBox image](https://www.linuxvmimages.com/images/ubuntu-2204/)** to run in VirtualBox.
 
-## Create an account in the following websites
+## User accounts in the following websites
 1. Create a **[Github account](https://github.com/join)**.
-2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)**. Go to the link that is given here, click on the 'Start free', provide your AthTech credentials and follow the instructions. You will be asked for some information, including a mobile phone number which is not linked to another student account, but you will NOT need to provide credit card details - if this happens then you have followed an incorrect link.
+2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)**. Go to the link that is given here, click on 'Start free', provide your AthTech credentials and follow the instructions. You will be asked for some information, including a mobile phone number which must not linked to another student account. You will NOT need to provide credit card details - if you are asked for credit card details then you have followed an incorrect link.
 3. Create a **[Docker Hub account](https://hub.docker.com/)**.
