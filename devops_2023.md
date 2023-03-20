@@ -11,13 +11,13 @@ Getting your system ready for DevOps module
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Download and install **[Java JDK 11](https://adoptopenjdk.net/)**.
-3. If you do not have Linux already available on your machine, Download and install **[Java JDK 11](https://adoptopenjdk.net/)**
-4. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
-5. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
-6. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
-7. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**.
-8. Download  **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
+2. Download and install Java 11 or later **[Java JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**.
+3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
+4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
+5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
+6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**.
+7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version **[Python 3](https://www.python.org/downloads/windows/)**, so make sure you have that installed first. Also, the virtual machine which runs Ansible requires Linux to run, or a Linux subsystem for Windows (WSL), which you will have available if you have already installed Docker from the previous step.
+8.  Download  **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
 9. Download **[Jenkins LTS](https://www.jenkins.io/download/)**.
 10. Download **[Prometheus](https://prometheus.io/download/)**.
 11. Download the latest Enterprise edition version (9.4.3 or later) of **[Grafana](https://grafana.com/grafana/download)**.
