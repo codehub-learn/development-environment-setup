@@ -15,7 +15,7 @@ Getting your system ready for DevOps module
 3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
 4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
 5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
-6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**.
+6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**. Depending on your hardware on operating system, Docker might ask you to enable CPU virtualization support and install Windows Subsystem for Linux, WSL. All you need to do for these is to simply follow the instructions that Docker will give you.
 7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version **[Python 3](https://www.python.org/downloads/windows/)**, so make sure you have that installed first. Also, the virtual machine which runs Ansible requires Linux to run, or a Linux subsystem for Windows (WSL), which you will have available if you have already installed Docker from the previous step.
 8.  Download  **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
 9. Download **[Jenkins LTS](https://www.jenkins.io/download/)**.
