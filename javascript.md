@@ -1,13 +1,8 @@
-## Development Editor
-**[Download Visual Studio Code](https://code.visualstudio.com/)** and install.
+## Code editor 
 
-### Installation Instructions
-- **[Windows](https://code.visualstudio.com/docs/setup/windows)**
-- **[MacOS](https://code.visualstudio.com/docs/setup/mac)**
-- **[Linux](https://code.visualstudio.com/docs/setup/linux)**
+Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a tone of extensions/plugins, and it is an industry standard. 
 
-Several plugins should be also installed during the course such as ESLint and Live Server.
-Instructions on how to install and manage your plugins can be found here: **[Εxtension Marketplace](https://code.visualstudio.com/docs/editor/extension-gallery)**
+VS Code will be used within class.
 
 ## Other tools
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
