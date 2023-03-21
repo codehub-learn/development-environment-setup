@@ -1,12 +1,4 @@
-# Hardware and software requirements for Java Standard Edition
-&nbsp;
-&nbsp;
-
-## Workstation specifications
-- Windows 10 or Linux or MacOS, 64 bit
-- RAM, 8GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
+# Software requirements for Java Standard Edition
 
 ## Development IDE
 **[Download IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. In case you already have it installed and your license has expired, we will provide you a valid license for the duration of the course. In case you prefer using another IDE, that's also fine as the examples do not make use of any IDE specific functionality. 
