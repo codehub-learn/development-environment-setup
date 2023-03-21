@@ -6,7 +6,7 @@ Before starting please make sure that you have successfully installed the below 
 
 - The latest **LTS** version of [Node.js](https://nodejs.org/en/) - Node.JS is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [npm](https://www.npmjs.com/) - is the official Nodejs Package Manager (npm) which allows the management of dependencies and packages. It is automatically installed with nodejs, so you don't have to install it separately.
-- Visit the [MongoDB site](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for installing on Windows (incase you have a different operating system, please choose one of the available options [here](https://www.mongodb.com/docs/manual/administration/install-community/))
+- Visit the [MongoDB site](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/) and follow the instructions for installing on Windows. In case you have a different operating system, please choose one of the available options [here](https://www.mongodb.com/docs/manual/administration/install-community/)
 - [Git](https://git-scm.com/) / [GitHub account](https://github.com/) - is a version control system for source code and GitHub is a community site that enables the easy creation and collaboration on Git projects.
 
 ## Verifying installation
