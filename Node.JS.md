@@ -1,4 +1,4 @@
-# Javascript & Node.JS
+# Node.JS
 
 ## Software Requirements
 
