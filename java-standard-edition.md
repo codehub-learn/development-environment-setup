@@ -9,7 +9,7 @@
 3. Add **%JAVA_HOME%\bin** and **%MVN_HOME%\bin** to your **PATH** envrionmental variable.
 
 ## Database
-1. You will need Microsoft SQL Server. Please follow **[the instructions here](https://github.com/codehub-learn/development-environment-setup/blob/main/MSSQL.md)** to install it.
+1. Please follow **[the instructions here](https://github.com/codehub-learn/development-environment-setup/blob/main/MSSQL.md)** to install Microsoft SQL Server. 
 
 ## Other tools
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
