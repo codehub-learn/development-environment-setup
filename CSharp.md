@@ -1,5 +1,5 @@
-# How to set up your PC for a C# Academy
-## Here are the development tools required to enable you to start coding on a C# Academy.
+# How to set up your PC for C#
+## Here are the development tools required to enable you to start coding on C#.
 
 ### PC's specs
 * 8 GB RAM
