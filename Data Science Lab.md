@@ -6,7 +6,7 @@ In detail you have to download:
 
 1.  Latest Version of [SQL Server Developer](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
     - Download the Developer edition (SQL20XX-SSEI-Dev.exe)
-    - Execute the SQL2019-SSEI-Dev.exe and perform a default installation.
+    - Execute the SQL20XX-SSEI-Dev.exe and perform a default installation.
 
 2.  Latest version of [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
     - Download and install the SSMS-Setup-ENU.exe file.
