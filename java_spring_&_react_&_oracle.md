@@ -1,8 +1,8 @@
-# Hardware and software requirements for Spring framework development, React and Oracle on Docker
+# Hardware and software requirements for Java & Spring framework development, React and Oracle on Docker
 &nbsp;
 &nbsp;
 
-## Spring
+## Java & Spring
 
 ### Workstation specifications
 - Windows 10 or Linux or MacOS, 64 bit
@@ -52,7 +52,9 @@ VS Code will be used within class with the following extensions:
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## Oracle
+## Oracle (Standalone or Docker)
+
+## 1) Oracle Standalone
 
 Oracle Database Enterprise can be installed for free for non-commerical usage. Download and install Oracle Database 21c Enterprise Edition from the following link:
 https://www.oracle.com/cis/database/technologies/oracle-database-software-downloads.html
@@ -62,13 +64,6 @@ https://www.oracle.com/cis/database/technologies/oracle-database-software-downlo
 ![db_install_snapshot](https://github.com/codehub-learn/development-environment-setup/blob/main/images/db_5a.png?raw=true)
 
 *Note that a free Oracle account is required to proceed with the download*
-
-Also download and intall the latest version of Oracle SQL Developer, from the following link:
-https://www.oracle.com/database/sqldeveloper/technologies/download/
-
-*Note that for Windows users the version with JDK included is reccomended. For uses in Linux or MacOS environments downaloading and installing the specified
-Java Development Kit (JDK) version is required to run Oracle SQL Developer. To download the JDK, refer to the following link:
-https://www.oracle.com/java/technologies/downloads/#java11*
 
 Lastly, download the Oracle *HR* sample database schema and create it in your system. To download and install the schema, follow the below steps:
 Download all sample schema files from https://github.com/oracle-samples/db-sample-schemas
@@ -86,7 +81,9 @@ Download all sample schema files from https://github.com/oracle-samples/db-sampl
 
 *For more information also refer to Oracle’s documentation at https://docs.oracle.com/en/database/oracle/oracle-database/21/comsc/installing-sample-schemas.html#GUID-CB945E4C-D08A-4B26-A12D-3D6D688467EA*
 
-## Oracle with Docker
+See end for Oracle SQL Developer instructions.
+
+## 2) Oracle with Docker
 
 ### Required Setup
 
