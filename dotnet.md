@@ -1,6 +1,6 @@
-# How to set up your PC for a .NET Academy
+# How to set up your PC for a .NET Training
 Here are the development tools **required** to enable you
-to start coding on a .NET Academy.
+to start coding on a .NET Training.
 
 ## PC's specs
 
