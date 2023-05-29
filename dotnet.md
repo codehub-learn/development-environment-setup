@@ -2,13 +2,6 @@
 Here are the development tools **required** to enable you
 to start coding on a .NET Training.
 
-## PC's specs
-
-- 8 GB RAM
-- 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
-- Windows 10
-
 ## .NET Development Tools
 
 1.  **[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)**
