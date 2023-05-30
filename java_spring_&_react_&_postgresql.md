@@ -1,4 +1,4 @@
-# Hardware and software requirements for Java & Spring framework development, React and PostgresSQL on Docker
+# Hardware and software requirements for Java & Spring framework development, React and PostgreSQL on Docker
 &nbsp;
 &nbsp;
 
@@ -52,12 +52,12 @@ VS Code will be used within class with the following extensions:
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## PostgresSQL (with Docker)
+## PostgreSQL (with Docker)
 
 ### Required Setup
 
 - Docker
-- PostgresSQL
+- PostgreSQL
 - DBeaver
 
 ### Install Docker
@@ -72,34 +72,34 @@ here
 3. The installer will give the option of “**Use WSL 2 instead of Hyper-V**” on a configuration page which it will show you. You **MUST** select the option of “Use WSL 2…”. Because of this, the installer will install WSL 2, the Windows Subsystem for Linux. **You might need administrator access for this step**.
 4. The installer will perform one or more restarts during installation. Once again, after your machine restarts **you might or might not be asked to need administrator access one more time for the installation to complete**.
 5. When the installer is complete, you need to add your Windows name to a user group which can control Docker. To do so, start the **command prompt tool with administrator rights**. The folder/directory that you are in is not important. Simply type in the following command in it, **by replacing <user_name> with your Windows user name**: _net localgroup docker-users <user_name> /add_
-![img.png](images/java_spring_&_react_&_postgressql_img_1.png)
+![img.png](images/java_spring_&_react_&_postgresql_img_1.png)
 6. When you run the above command, if you happen to get ‘System error 1378’ that ‘The specified account name is already a member of the group', **that is ok**, you do not need to worry.
 
 The installation is over, and you should now be able to start Docker from the start menu; do so because it is needed for the **next installation**.
 
-### Install PostgresSQL
+### Install PostgreSQL
 
-To install PostgresSQL, once you have installed Docker, type in the following command on the command prompt
+To install PostgreSQL, once you have installed Docker, type in the following command on the command prompt
 
 _docker run --name some-postgres -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres_
 
 You can change POSTGRES_PASSWORD to whatever you want, and it will be the password that you will be using in the later stages of this process.
 
-![img.png](images/java_spring_&_react_&_postgressql_img_2.png)
+![img.png](images/java_spring_&_react_&_postgresql_img_2.png)
 
 ### Install DBeaver
 
 Download DBeaver Community 21.0.4 from Software on Demand. Install it as usual with all other Software on Demand installations.
 
-### Connect DBeaver to PostgresSQL
+### Connect DBeaver to PostgreSQL
 
-Once you start DBeaver, it will ask you to connect to a database; select PostgresSQL.
+Once you start DBeaver, it will ask you to connect to a database; select PostgreSQL.
 
-![img.png](images/java_spring_&_react_&_postgressql_img_3.png)
+![img.png](images/java_spring_&_react_&_postgresql_img_3.png)
 
-Depending on your machine configuration, the installer might ask you to download driver files (but if your machine already has them, you will not be asked this). Next the connection setup window will appear. Leave the username as ‘postgres’ and enter the password you used in the Docker installation for PostgresSQL.
+Depending on your machine configuration, the installer might ask you to download driver files (but if your machine already has them, you will not be asked this). Next the connection setup window will appear. Leave the username as ‘postgres’ and enter the password you used in the Docker installation for PostgreSQL.
 
-![img.png](images/java_spring_&_react_&_postgressql_img_4.png)
+![img.png](images/java_spring_&_react_&_postgresql_img_4.png)
 
 Click on ‘Test Connection” to confirm that DBeaver can see the database. Once you get the success message, the setup is complete.
 
