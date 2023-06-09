@@ -14,7 +14,7 @@ Docker will be used by the instructor within class.
    2 to continue.
 3. Start Docker Desktop from the Windows Start menu.
 
-## JavaScript
+## JavaScript - ISTQB
 
 No installation required for the programming language. However, Node.js will be needed in class.
 
@@ -33,18 +33,12 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 
 VS Code will be used within class.
 
-## Python 
+## Python
 
-### Recommended Setup
+Local setup instructions will be given.
 
-- Python > 3.7
-- Python packages:
-    - jupyter
-    - numpy
 
-### How to set up your PC (locally)
-
-#### Windows
+### Windows
 
 1. Download and install [python](https://www.python.org/downloads/) (preferably python > 3.7).
     - We do **not** recommend using other python distributions (e.g. anaconda).
@@ -62,14 +56,14 @@ VS Code will be used within class.
 4. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
 5. Packages that may be required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that may be required will be pointed out in class.
 
-#### Other OS
+### Other OS
 
 Install python and pip through the OS's default package manager. Then run step 4 from before.
 
 *Note: Most linux and OSX distributions have Python 2 preinstalled. This is not compatible with what we will be seeing in this course. Install Python 3 locally.*
 
 
-#### Code Editor
+### Code Editor
 
 See JavaScript section for code editor. The same will be used.
 
