@@ -16,7 +16,16 @@ Docker will be used by the instructor within class.
 
 ## JavaScript
 
-No installation required for the programming language.
+No installation required for the programming language. However, Node.js will be needed in class.
+
+### Node.js
+
+1. Download and install an **LTS** version of [Node.js](https://nodejs.org/). To verify that you have installed it
+   correctly type the command `node -v` in a command line window and it should display the installed version of Node.js
+2. **Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line
+   window and it should display the installed npm version.
+   > Windows users: if the previous command is not working, verify that the path of the npm executable has been added to
+   your PATH environment variable.
 
 ### Code editor
 
