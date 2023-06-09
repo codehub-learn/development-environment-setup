@@ -1,6 +1,4 @@
 # Hardware and software requirements for Scripting, JavaScript & Python
-&nbsp;
-&nbsp;
 
 ## Linux
 
