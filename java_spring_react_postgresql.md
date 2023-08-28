@@ -103,4 +103,3 @@ Depending on your machine configuration, the installer might ask you to download
 
 Click on ‘Test Connection” to confirm that DBeaver can see the database. Once you get the success message, the setup is complete.
 
-
