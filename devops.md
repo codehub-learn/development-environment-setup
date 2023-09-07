@@ -1,33 +1,30 @@
-# Hardware and Software requirements for DevOps.
-Getting your workstation ready for DevOps module.
+# Installation requirements for DevOps
+Getting your system ready for DevOps module
 &nbsp;
 &nbsp;
 
-## Workstation specifications
-- Windows 10 or Linux or MacOS, 64 bit
-- RAM, 12GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
-- 4 Core CPU
+## Hardware specifications
+- Windows 10, Linux or MacOS, 64 bit
+- RAM, 8GB required, 16GB is recommended
+- 30 GB of free disk space, use of SSD is recommended
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Download and install **[Java JDK 11](https://adoptopenjdk.net/)**.
+2. Download and install Java 11 or later (**[Java JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**).
 3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
 4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**.
 5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
-6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)** **for project implementation**.
-7. Download  **[Minikube](https://minikube.sigs.k8s.io/docs/start/)** **for project implementation**.
-8. Download **[Jenkins LTS](https://www.jenkins.io/download/)**.
-9. Download **[Prometheus](https://prometheus.io/download/)**.
-10. Download **[Grafana](https://grafana.com/grafana/download)**.
-11. Download **[Terraform](https://www.terraform.io/downloads.html)**.
-12. Download **[CentOS 7.8.2003 - Graphical Desktop image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/C/7/CentOS_7.8.2003_VBG.zip)**
-13. Download **[Ubuntu 20.04 LTS (Focal Fossa) image](https://techloudgeek.com/download/image/?link=https://dl531.linuxvmimages.com/VirtualBox/U/20.04/Ubuntu_20.04_VB.zip)**
+6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**. Depending on your hardware on operating system, Docker might ask you to enable CPU virtualization support and install Windows Subsystem for Linux, WSL. All you need to do for these is to simply follow the instructions that Docker will give you.
+7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version of **[Python 3](https://www.python.org/downloads/windows/)**, so make sure that you have installed Python first. Also, Ansible sets up its own Linux virtual machine, so for Windows you will need the **[Linux Subsystem for Windows (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)**, which was already installed with Docker in the previous step.
+8. Download  and install **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
+9. Download and install **[Jenkins LTS](https://www.jenkins.io/download/)**.
+10. Download and install **[Prometheus](https://prometheus.io/download/)**.
+11. Download and install the latest Enterprise edition version (9.4.3 or later) of **[Grafana](https://grafana.com/grafana/download)**.
+12. Download and install **[Terraform](https://www.terraform.io/downloads.html)**.
+13. Download **[CentOS 8.4.2105 - VirtualBox GRAPHICAL INSTALLATION image](https://www.linuxvmimages.com/images/centos-8/)** to run in VirtualBox.
+14. Download **[Ubuntu 22.04 LTS VirtualBox image](https://www.linuxvmimages.com/images/ubuntu-2204/)** to run in VirtualBox.
 
-## Create account in the following websites
+## User accounts in the following websites
 1. Create a **[Github account](https://github.com/join)**.
-2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)** with your Ath/Tech credentials.
+2. Create an **[Azure Student account](https://azure.microsoft.com/en-us/free/students/)**. Go to the link that is given here, click on 'Start free', provide your AthTech credentials and follow the instructions. You will be asked for some information, including a mobile phone number which must not linked to another student account. You will NOT need to provide credit card details - if you are asked for credit card details then you have followed an incorrect link.
 3. Create a **[Docker Hub account](https://hub.docker.com/)**.
-4. Create a **[Katacoda account](https://www.katacoda.com/)**.
-
-
