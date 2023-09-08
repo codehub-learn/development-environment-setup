@@ -42,7 +42,7 @@ Docker installation instructions can be seen [in this link](https://docs.docker.
 
 6.	When you run the above command, if you happen to get ‘System error 1378’ that ‘The specified account name is already a member of the group', **that is ok**, you do not need to worry.
 
-The installation is over and you should now be able to start Docker from the start menu.
+7. You should now be able to start Docker Desktop from the start menu.
 
 ### WSL
 
