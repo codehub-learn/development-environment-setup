@@ -1,5 +1,5 @@
 # Installation requirements for DevOps
-Getting your system ready for DevOps module
+Getting your system ready for the DevOps module.
 &nbsp;
 &nbsp;
 
@@ -10,19 +10,9 @@ Getting your system ready for DevOps module
 
 ## Software Stack
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Download and install Java 11 or later (**[Java JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)**). Requirement for Jenkins.
-3. Download and install **[VirtualBox](https://www.virtualbox.org/wiki/Downloads)**.
-4. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**. Needed as a code editor.
-5. Download and install **[PuTTY ssh client](https://www.putty.org/)**.
-6. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**. Depending on your hardware or operating system, Docker might ask you to enable CPU virtualization support and install Windows Subsystem for Linux, WSL. All you need to do for these is to simply follow the instructions that Docker will give you. **For detailed instructions, please check below**
-7. Download and install **[Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-and-upgrading-ansible)**. Ansible requires any version of **[Python 3](https://www.python.org/downloads/windows/)**, so make sure that you have installed Python first. Also, Ansible sets up its own Linux virtual machine, so for Windows you will need the **[Linux Subsystem for Windows (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install)**, which was already installed with Docker in the previous step.
-8. Download  and install **[Minikube](https://minikube.sigs.k8s.io/docs/start/)**.
-9. Download and install **[Jenkins LTS](https://www.jenkins.io/download/)**.
-10. Download and install **[Prometheus](https://prometheus.io/download/)**.
-11. Download and install the latest Enterprise edition version (9.4.3 or later) of **[Grafana](https://grafana.com/grafana/download)**.
-12. Download **[Terraform](https://www.terraform.io/downloads.html)**. Installation will be done within class.
-13. Download **[CentOS 8.4.2105 - VirtualBox GRAPHICAL INSTALLATION image](https://www.linuxvmimages.com/images/centos-8/)** to run in VirtualBox.
-14. Download **[Ubuntu 22.04 LTS VirtualBox image](https://www.linuxvmimages.com/images/ubuntu-2204/)** to run in VirtualBox.
+2. Download and install **[Visual Studio Code](https://code.visualstudio.com/)**. Needed as a code editor.
+3. Download and install **[Docker](https://www.docker.com/products/docker-desktop)**. Depending on your hardware or operating system, Docker might ask you to enable CPU virtualization support and install Windows Subsystem for Linux, WSL. All you need to do for these is to simply follow the instructions that Docker will give you. **For detailed instructions, please check below**.
+4. Download and install WSL. **For detailed instructions, please check below**.
 
 ## User accounts in the following websites
 1. Create a **[GitHub account](https://github.com/join)**.
@@ -54,4 +44,22 @@ Docker installation instructions can be seen [in this link](https://docs.docker.
 
 The installation is over and you should now be able to start Docker from the start menu.
 
+### WSL
+
+1. Run the following command in a Windows Powershell window:
+```
+   wsl -list -online
+```
+![image](images/devops_1.png)
+
+2. Select Ubuntu for our distribution to be installed.
+```
+   wsl -install Ubuntu-22.04
+```
+![image](images/devops_2.png)
+
+3. If you open a new Windows Terminal, you should now be able to select Ubuntu.
+
+4. If Ubuntu is not visible in your Windows Terminal, please open Settings and set it as default Terminal Profile (if you wish to do so).
+   ![image](images/devops_3.png)
 
