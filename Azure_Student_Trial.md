@@ -28,6 +28,7 @@ In order to follow the course(s), you will need to have credits in your Azure ac
 3. After signing in, you will be requested to input your country of residence and a phone number. Input your real phone number as Azure will verify it.\
 
 Note 1: ****Use a unique phone number, do not reuse a phone number that has been used for the creation of another Azure Account (whether that is trial or not). Same applies for the secondary e-mail.****
+
 Note 2: If the end of the subscription has been reached (because you activated the trial sometime in the past for the same account), you can also renew (extend) the subscription and you will start anew.
 
 ![img_3.png](images/azure_for_students_img_3.png)
