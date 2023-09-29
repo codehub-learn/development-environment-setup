@@ -2,9 +2,9 @@
 
 ## Statistics
 
-Install the **trial version of Minitab** from **http://www.r-project.org/**. 
+Install the **trial version of Minitab** from **https://www.minitab.com/en-us/products/minitab/free-trial/**. 
 
-To install the trial version you will need to provide Minitab with contact details for you and your company. 
+To install the trial version you will need to provide Minitab with contact details for you and your company.
 
 With the trial registration you can use both the desktop version and the web app. We will be using the desktop version but you are free to choose whichever version suits you best. 
 
