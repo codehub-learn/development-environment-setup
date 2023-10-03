@@ -1,8 +1,6 @@
-# How to set up your PC for AZ-204 : Developing Solutions for Microsoft Azure
+# Starter Kit for AZ-204 : Developing Solutions for Microsoft Azure
 Here are the development tools **required** to enable you
 to start.
-
-## .NET Development Tools
 
 1.  **[Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)**
 
@@ -11,35 +9,6 @@ During the installation select the workloads shown in red, below:
 ![workloads selection](images/vs-installation.png)
 
 2.  [VS Code](https://code.visualstudio.com/)
-
-## Database development
-
-1.  You can download and install a SQL Server Local Installation OR you can use Docker ([SQL Server: Docker image](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019))
-    - First [install Docker and cmder](#other-development-tools). Instructions on how to install Docker are below.
-    - Open cmder and run the following command: 
-    ```bash
-    docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=admin!@#123" -p 1433:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
-    ```
-    - A new SQL Server instance will be created and you can access it using SQL Server Management Studio by using:
-
-        Server name: `localhost`
-
-        Authentication: `SQL Server authentication`
-
-        Username: `sa`
-
-        Password: `admin!@#123`
-
-1.  You can use [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
-    **or** [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15) for a UI.
-
-### MS SQL Server Management Studio (SSMS)
-If you choose to download SSMS, follow these steps:
-
-1. Run the SSMS installer that you downloaded from above. You will need administrator access for this step.
-2. It is possible that the installer will ask you to restart the machine. Let it do so. When the machine restarts, you will need to run the installer once again.
-3. Once the installer completes, SSMS is ready to use. You can run SSMS from the start menu. The way to connect will be shown to you during the first training session.
-
 
 ## Docker
 
@@ -63,7 +32,20 @@ Docker installation instructions can be seen [in this link](https://docs.docker.
 
 7. You should now be able to start Docker Desktop from the start menu.
 
+### Install MS SQL Server 
 
+To install the MS SQL Server inside Docker, you need to open a command prompt. Administrator rights are NOT needed. The folder/directory that you are in is not important. Type in the following command and wait for the installation to complete (approximately 700 MB).
+   ```
+    docker pull mcr.microsoft.com/mssql/server:2022-latest
+   ```    
+![image](images/az-204_developing_solutions_for_microsoft_azure_img_1.png)
 
+The MS SQL Server installation is complete inside Docker, but you will not be able to connect to it yet because you will need to create some user credentials for the server. This connection process will be shown to you during the first training session.
 
+### Install MS SQL Server Management Studio (SSMS)
 
+Download the installer for SSMS from this [link](https://aka.ms/ssmsfullsetup).
+
+1. Run the SSMS installer that you downloaded from above. You will need administrator access for this step.
+2. It is possible that the installer will ask you to restart the machine. Let it do so. When the machine restarts, you will need to run the installer once again.
+3. Once the installer completes, SSMS is ready to use. You can run SSMS from the start menu. The way to connect will be shown to you during the first training session.
