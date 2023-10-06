@@ -2,7 +2,7 @@
 
 ## 1. Snowflake 30 Day Trial
 
-  Create an account and start a 30-day trial **[through this link](https://signup.snowflake.com/)**
+  Create an account and start a 30-day trial (Enterprise Edition) **[through this link](https://signup.snowflake.com/)**
 
 ## 2. Visual Studio Code
 
