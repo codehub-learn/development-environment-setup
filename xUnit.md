@@ -1,5 +1,5 @@
 # How to set up your PC for xUnit Lessons#
-## Here are the development tools required to enable you to start coding on C#.
+## Here are the development tools required to enable you to start coding on C# and testing with xUnit.
 
 #### .NET Development Tools
 * [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/) (Or higher)
