@@ -1,8 +1,11 @@
 # How to set up your PC for Azure Development in C#
 
 You will require the following:
+
 Visual Studio
+
 SQL Server
+
 Azure Subscription
 
 ## .NET Development Tools
