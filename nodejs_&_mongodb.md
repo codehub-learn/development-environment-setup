@@ -1,4 +1,4 @@
-# Node.JS & MongoDB Community Edition Installation Instructions
+# Node.JS & MongoDB
 
 ## 1) Node.JS
 ### Software Requirements
@@ -28,9 +28,9 @@ VS Code will be used within class.
 1) At least 10 GB of free disk space
 2) At least 4 GB of RAM
 
-Depending on your operating system, follow any of the instructions that can be found below. To avoid complications, the Docker installation is suggested if you are an experienced Docker user.
+Depending on your operating system, follow any of the instructions that can be found below. To avoid complications, the Docker installation is suggested. Instructions on how to install Docker can be found [here](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md).
 
-1) [Install on Windows](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/#std-label-install-mdb-community-windows)
-2) [Install on macOS](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/#std-label-install-mdb-community-macos)
-3) [Install on Linux](https://www.mongodb.com/docs/manual/administration/install-community/)
-4) [Install on Docker](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker/#std-label-docker-mongodb-community-install)
+1) [Install on Docker](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker/#std-label-docker-mongodb-community-install)
+2) [Install on Windows](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/#std-label-install-mdb-community-windows)
+3) [Install on macOS](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/#std-label-install-mdb-community-macos)
+4) [Install on Linux](https://www.mongodb.com/docs/manual/administration/install-community/)
