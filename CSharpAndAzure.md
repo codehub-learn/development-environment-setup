@@ -1,7 +1,31 @@
+# How to set up your PC for Azure Development in C#
+
+You will require the following:
+
+Visual Studio
+
+SQL Server
+
+Azure Subscription
+
+## .NET Development Tools
+* [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/) (Or higher)
+
+## During the installation select the workloads shown in red, below:
+
+![Image of Workloads](https://github.com/codehub-learn/development-environment-setup/blob/main/images/CSharp_workloads.png)
+ 
+## Database development
+* [SQL Server 2022 Developer Edition](https://go.microsoft.com/fwlink/?linkid=866662) (Or higher)
+* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) (Recommended) or Azure Data Studio
 # Instructions for creating an educational Azure Account
+
+
 
 In order to follow the course(s), you will need to have credits in your Azure account. One of the easiest ways to obtain these credits is by applying for an Azure for Students subscription through the following [link](https://azure.microsoft.com/en-us/free/students/
 ).
+
+# How to create an Azure Subscription#
 
 ## Required Setup
 - Academic E-mail OR
