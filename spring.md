@@ -3,7 +3,7 @@
 &nbsp;
 
 ## Workstation specifications
-- Windows 10 or Linux or MacOS, 64-bit
+- Windows 10 or higher or Linux or MacOS, 64-bit
 - RAM, 8GB required, 16GB preferable
 - 128 GB Storage (SSD would be preferable)
 - 4 Core CPU
