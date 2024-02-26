@@ -36,13 +36,7 @@ During the installation select the workloads shown in red, below:
 ## Other development tools
 
 1. **[Github account](https://github.com/join)**
-1. **[Git Version Control](https://git-scm.com/downloads)**
-1. **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)**
-    - After the installation, ensure that you've activated Linux containers (instead of Windows):
-        1. Right click Docker's taskbar icon
-        1. Select `Switch to Linux containers` **if visible**. Screenshot below indicates a succesful installation
-            of Docker:
-
-       ![workloads selection](images/docker-linux-containers.png)
-1.  [Postman Client](https://www.postman.com/downloads/)
-3.  [CMDer (or any **good** console emulator)](https://cmder.app/)
+2. **[Git Version Control](https://git-scm.com/downloads)**
+3. **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)**
+4.  [Postman Client](https://www.postman.com/downloads/)
+5.  [CMDer (or any **good** console emulator)](https://cmder.app/)
