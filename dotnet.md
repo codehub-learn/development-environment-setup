@@ -37,7 +37,7 @@ During the installation select the workloads shown in red, below:
 
 1. **[Github account](https://github.com/join)**
 1. **[Git Version Control](https://git-scm.com/downloads)**
-1. **[Docker](https://www.docker.com/products/docker-desktop)**
+1. **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)**
     - After the installation, ensure that you've activated Linux containers (instead of Windows):
         1. Right click Docker's taskbar icon
         1. Select `Switch to Linux containers` **if visible**. Screenshot below indicates a succesful installation
