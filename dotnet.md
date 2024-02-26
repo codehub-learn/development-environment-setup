@@ -45,4 +45,4 @@ During the installation select the workloads shown in red, below:
 
        ![workloads selection](images/docker-linux-containers.png)
 1.  [Postman Client](https://www.postman.com/downloads/)
-3.  [CMDer (or any **good** console emulator)](https://cmder.net/)
+3.  [CMDer (or any **good** console emulator)](https://cmder.app/)
