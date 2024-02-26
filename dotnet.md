@@ -16,11 +16,12 @@ During the installation select the workloads shown in red, below:
 
 1.  SQL Server Local Installation OR [SQL Server (Docker image)](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019)
   (For Docker follow below steps:)
-   - First **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)** and **[CMDer](https://cmder.app/)**
-    - Open cmder and run the following command: 
-        ```bash
+       - First Install **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)** and then **[CMDer](https://cmder.app/)**
+         
+       - Open cmder and run the following command: 
+       ```bash
         docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=admin!@#123" -p 1433:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2019-CU3-ubuntu-18.04
-        ```
+       ```
        - A new SQL Server instance will be created and you can access it using SQL Server Management Studio by using:
     
             Server name: `localhost`
