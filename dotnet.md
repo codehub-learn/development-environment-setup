@@ -14,8 +14,8 @@ During the installation select the workloads shown in red, below:
 
 ## Database development
 
-1.  SQL Server Local Installation
-    OR [SQL Server (Docker image)](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019)
+1.  SQL Server Local Installation OR [SQL Server (Docker image)](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019)
+      For SQL Server Docker Image, follow these steps:
         - First **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)** and **[CMDer](https://cmder.app/)**
         - Open cmder and run the following command: 
         ```bash
@@ -31,7 +31,7 @@ During the installation select the workloads shown in red, below:
     
             Password: `admin!@#123`
 
-2.  [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
+3.  [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
     **or** [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
 
 ## Other development tools
