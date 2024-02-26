@@ -14,9 +14,7 @@ During the installation select the workloads shown in red, below:
 
 ## Database development
 
-1.  SQL Server Local Installation
-OR [SQL Server (Docker image)](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019)
-      For SQL Server Docker Image, follow these steps:
+1.  SQL Server Local Installation OR [SQL Server (Docker image)](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash#pullandrun2019)
         - First **[Docker](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)** and **[CMDer](https://cmder.app/)**
         - Open cmder and run the following command: 
         ```bash
