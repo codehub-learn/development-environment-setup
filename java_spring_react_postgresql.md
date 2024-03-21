@@ -1,4 +1,4 @@
-# Hardware and software requirements for Java & Spring framework development, React and PostgreSQL on Docker
+# Hardware and software requirements for Java & Spring framework development, ReactJS and PostgreSQL on Docker
 &nbsp;
 &nbsp;
 
@@ -30,7 +30,6 @@ Before starting please make sure that you have successfully installed the below 
 
 - The latest **LTS** version of [Node.js](https://nodejs.org/en/) - Node.JS is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [npm](https://www.npmjs.com/) - is the official Nodejs Package Manager (npm) which allows the management of dependencies and packages. It is automatically installed with nodejs, so you don't have to install it separately.
-- [git](https://git-scm.com/) / [GitHub account](https://github.com/) - is a version control system for source code and GitHub is a community site that enables the easy creation and collaboration on Git projects.
 
 ### Verifying installation
 
