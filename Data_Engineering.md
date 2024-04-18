@@ -46,8 +46,10 @@ The installation of the databases in MSSQL Server will be shown in one of the co
 **[Visual Studio Code](https://code.visualstudio.com/download)**  for python script execution. 
 
 ## python 
-**[ ]( )**    python programming language. 
+**[python](https://github.com/codehub-learn/development-environment-setup/blob/main/python-integration-visualization.md)**    python programming language. 
 
+## Docker Desktop 
+**[Docker Desktop](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)**    
 
 ## SQL Server Development Tools 
 1. The **[SQL Server Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022)** installed for Visual Studio. 
