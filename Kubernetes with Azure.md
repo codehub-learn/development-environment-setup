@@ -2,7 +2,7 @@
 
 1. Download and install **as an Administrator** the Latest MSI of the Azure CLI from here -> **[Azure CLI 64-bit](https://aka.ms/installazurecliwindowsx64)** or **[Azure CLI 32-bit](https://aka.ms/installazurecliwindows)**
 
-2. Simply download kubectl (without installing it) from here -> **[kubectl 1.30.00](https://dl.k8s.io/release/v1.30.0/bin/windows/amd64/kubectl.exe)**.\
+2. Simply download kubectl (without installing it) from here -> **[kubectl 1.30.0](https://dl.k8s.io/release/v1.30.0/bin/windows/amd64/kubectl.exe)**.\
 *(Further instructions will be given inside the classroom)*
 
 # 
