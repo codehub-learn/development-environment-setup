@@ -13,7 +13,7 @@ IntelliJ IDEA Community edition or Ultimate edition are both suitable as tools. 
 **[IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/download/#section=windows)** and install. For the Ultimate Edition, in case you already have a license the you are already set up, else we will provide you a valid license for the duration of the course. In case you prefer using another IDE, that's also fine as the examples do not make use of any IDE specific functionality. Support, however, can only be provided for IntelliJ.
 
 ## Java Development Tools
-1. Java Development Toolkit, download and install the Java LTS version 17 or 21 from this location **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**. Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
+1. Java Development Toolkit, download and install the Java LTS version 21 from this location **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**. Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
 
 3. Add **%JAVA_HOME%\bin** and **%MVN_HOME%\bin** to your **PATH** envrionmental variable.
 
