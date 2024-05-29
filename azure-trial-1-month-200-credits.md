@@ -18,7 +18,7 @@ Visit https://azure.microsoft.com/en-us/free/
 Click on the “Start free” button.
 And login with a Microsoft account.
 
-![Confirmation](https://github.com/codehub-learn/development-environment-setup/blob/main/images/howToregister.png?raw=true)
+![Confirmation](https://github.com/codehub-learn/development-environment-setup/blob/main/images/azure-how-to-register?raw=true)
 
 
 ## Step 3
