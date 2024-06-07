@@ -7,4 +7,6 @@ Choose Download from the navigation bar (or go to the [download page](https://or
  
 >[!IMPORTANT]
 >#### Portable Version
->If you are a window user and you have securities issues prohibiting the installation you can download the [Portable Orange](https://download.biolab.si/download/files/Orange3-3.36.2.zip). In this case you do not have to install anything. Just extract the archive and open (double click on) the shortcut in the extracted folder.
+>If you are a window user and you have securities issues prohibiting the installation you can download the [Portable Orange](https://download.biolab.si/download/files/Orange3-3.36.2.zip). In this case you do not have to install anything.
+>
+>Just **extract the archive** and open (double click on) the shortcut in the extracted folder.
