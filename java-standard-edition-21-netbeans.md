@@ -1,27 +1,26 @@
-# Starter Kit for Java
-
-# Hardware and software requirements for Java Standard Edition development
+# Hardware and software requirements for Java Standard Edition development (Java SE 21) with NetBeans
 &nbsp;
 &nbsp;
 
 ## Workstation specifications
-- Windows 10 or Linux, 64 bit
+- Windows (version 10 or later), Linux (any distro), MacOS, 64 bit
 - RAM, 8GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
+- 128 GB free Storage (SSD would be preferrable)
 - 4 Core CPU
 
 ## Development IDE
-Download  **[Apache NetBeans 15](https://netbeans.apache.org/download/nb15/index.html)** and install. You may use any other IDE if you do have a good reason for doing so, as the code examples will run successfully. Do note, however, that all instruction and support will only be based on the official recommendation given here. 
+Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install. If you prefer to use a different IDE, that is also fine as the examples do not make use of any IDE specific functionality. Support in the training, however, can only be provided for NetBeans. 
 
 ## Java Development Tools
-1. Java Development Toolkit, download and install the Long Term Support version 17 LTS **[JDK 17](https://jdk.java.net/java-se-ri/17)**. Set up an environment variable named **JAVA_HOME** pointing to the JDK installation folder.
-2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Set up an environment variable named **MVN_HOME** pointing to Maven's installation folder.
-3. Set up two additional paths to your **PATH** environment variable, namely **%JAVA_HOME%/bin** and **%MVN_HOME%/bin**.
+1. Download and install the Java LTS version 21 from this location **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**.
+2. Create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
+
+Earlier versions of Java are not compatible with the course content, you will need to have version 21. If you already have an earlier version of Java on you machine, you do not need to uninstall it. You can let it be there and install version 21 along with that.
 
 ## Other tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. If you do not already have one, create a **[Github account](https://github.com/join)** (this account is free to create and use).
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you have an older version of git, it is highly recommended that you update to the latest version.
+2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to use).
 
 ## RDBMS
-1. Download and install the latest MySQL Server (https://dev.mysql.com/downloads/mysql/).
-2. Download and install the latest MySQL Workbench (https://dev.mysql.com/downloads/workbench/).
+1. Download and install the latest version of **[MySQL Server](https://dev.mysql.com/downloads/mysql/)** (free software).
+2. Download and install the latest version of **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** (free software).
