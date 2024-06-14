@@ -8,16 +8,16 @@
 - 128 GB free Storage (SSD would be preferrable)
 - 4 Core CPU
 
-## Development IDE
-Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install.
-
-If you prefer to use a different IDE, that is also fine as the examples do not make use of any IDE specific functionality. Support in the training, however, can only be provided for NetBeans. 
-
 ## Java Development Tools
 1. Download and install the Java LTS version 21 from **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**.
 2. In Windows, create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
 
 Earlier versions of Java are not compatible with the course content, you will need to have version 21. If you already have an earlier version of Java on you machine, you do not need to uninstall it. You can let it be there and install version 21 along with that.
+
+## Development IDE
+Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install.
+
+If you prefer to use a different IDE, that is also fine as the examples do not make use of any IDE specific functionality. Support in the training, however, can only be provided for NetBeans. 
 
 ## RDBMS
 1. Download and install the latest version of **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)** (free software).
