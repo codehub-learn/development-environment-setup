@@ -9,7 +9,9 @@
 - 4 Core CPU
 
 ## Development IDE
-Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install. If you prefer to use a different IDE, that is also fine as the examples do not make use of any IDE specific functionality. Support in the training, however, can only be provided for NetBeans. 
+Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install.
+
+If you prefer to use a different IDE, that is also fine as the examples do not make use of any IDE specific functionality. Support in the training, however, can only be provided for NetBeans. 
 
 ## Java Development Tools
 1. Download and install the Java LTS version 21 from **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**.
