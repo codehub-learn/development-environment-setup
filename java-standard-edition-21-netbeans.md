@@ -1,4 +1,4 @@
-# Hardware and software requirements for Java Standard Edition development (Java SE 21) with NetBeans
+# Hardware and software requirements for Java Standard Edition development (Java SE 21) with NetBeans and MySQL
 &nbsp;
 &nbsp;
 
