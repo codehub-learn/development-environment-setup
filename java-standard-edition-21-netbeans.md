@@ -22,5 +22,5 @@ Earlier versions of Java are not compatible with the course content, you will ne
 2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to use).
 
 ## RDBMS
-1. Download and install the latest version of **[MySQL Server](https://dev.mysql.com/downloads/mysql/)** (free software).
+1. Download and install the latest version of **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)** (free software).
 2. Download and install the latest version of **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** (free software).
