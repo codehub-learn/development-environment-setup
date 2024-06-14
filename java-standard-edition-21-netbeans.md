@@ -19,10 +19,10 @@ If you prefer to use a different IDE, that is also fine as the examples do not m
 
 Earlier versions of Java are not compatible with the course content, you will need to have version 21. If you already have an earlier version of Java on you machine, you do not need to uninstall it. You can let it be there and install version 21 along with that.
 
-## Other tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you have an older version of git, it is highly recommended that you update to the latest version.
-2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to use).
-
 ## RDBMS
 1. Download and install the latest version of **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)** (free software).
 2. Download and install the latest version of **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** (free software).
+
+## Other tools
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you have an older version of git, it is highly recommended that you update to the latest version.
+2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to use).
