@@ -1,13 +1,6 @@
 # Hardware and software requirements for Java Standard Edition development (Java SE 21) with NetBeans and MySQL
 &nbsp;
 &nbsp;
-
-## Workstation specifications
-- Windows (version 10 or later), Linux (any distro), MacOS, 64 bit
-- RAM, 8GB required, 16GB preferable
-- 128 GB free Storage (SSD would be preferrable)
-- 4 Core CPU
-
 ## Java Development Tools
 1. Download and install the Java LTS version 21 from **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)**.
 2. In Windows, create then an environmental variable named **JAVA_HOME** pointing to JDK installation folder.
