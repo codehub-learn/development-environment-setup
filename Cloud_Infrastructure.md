@@ -1,5 +1,5 @@
 ## Azure Account
-**[Create a student Azure Account using your Ath.Tech email](https://azure.microsoft.com/en-us/free/students/)**
+**[Create a student Azure Account using your Ath.Tech email]([https://azure.microsoft.com/en-us/free/students/](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Student_Trial%20(Academic%20-%2012%20months%20-%20100%20credits).md))**
 
 
 ## Development Tools
