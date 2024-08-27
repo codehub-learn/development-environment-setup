@@ -70,9 +70,9 @@ The airflow standalone we will be using can be run only through WSL, so we'll ne
 - You can find a dummy dag to test your installation ...
 - There is a default location where you need to place DAG files in order to run them.
 - This is controlled by the environment variable `AIRFLOW_HOME`. By default, it is in `~/airflow`.
-- Inside this, you can create a directory called `dags`, under which you can place your DAGs.
+- Inside this, you can create a directory called `dags`, under which you can place your DAGs.  
 ![dummy-dag-1.png](https://github.com/codehub-learn/development-environment-setup/blob/main/images/ml-production-lab/ml-production-lab/dummy-dag-1.png?raw=true)
-- The DAG should appear in the UI shortly after.
+- The DAG should appear in the UI shortly after.  
 ![dummy-dag-2.png](https://github.com/codehub-learn/development-environment-setup/blob/main/images/ml-production-lab/ml-production-lab/dummy-dag-2.png?raw=true)
 
 ## Other tools
