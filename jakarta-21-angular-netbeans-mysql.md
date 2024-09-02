@@ -1,12 +1,4 @@
-# Hardware and software requirements for Jakarta EE + Angular framework development
-&nbsp;
-&nbsp;
-
-## Workstation specifications, minimum requirements
-- Windows 10 or later, Linux or MacOS, 64 bit
-- RAM, 8GB required, 16GB preferable
-- 128 GB Storage (SSD would be preferrable)
-- 2 Core CPU
+# Software requirements for Jakarta EE + Angular framework development
 
 ## Java Development Kit
 1. Download and install the Java LTS version 21 from **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)** (free software).
@@ -37,37 +29,6 @@ If you prefer to use a different IDE, that is fine; support in the training, how
 Angular applications require an LTS version of Node.js in order to work properly; non-LTS versions will not work as required. To verify that you have installed Node.js correctly, type the command `node -v` in a command line window and you should see the installed version of Node.js
 
 For Windows users: if the previous command gives an error, verify that the path of the node executable has been added to your PATH environment variable.
-
-## NPM
-
-**Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line window and you should see the installed npm version.
-
-For Windows users: if the previous command gives an error, verify that the path of the npm executable has been added to your PATH environment variable.
-
-## Verification of Angular setup
-To verify that you have setup your local Angular environment correctly, follow the steps below.
-
-1. Clone this repository locally by running the command:
-
-   ```sh
-   git clone https://github.com/codehub-learn/angular-starter-kit.git
-   ```
-
-2. Navigate to the newly created `angular-starter-kit` folder and install the project dependencies:
-   ```sh
-   cd angular-starter-kit
-   npm install
-   ```
-
-3. Run the **Angular Starter Kit** application using the command:
-    ```sh
-   ng serve -o
-   ```
-   You should see the following:
-
-<p align="center">
-  <img src="images/angular_app.png" alt="Angular Starter Kit is running" />
-</p>
 
 ## Congratulations! 👏
 
