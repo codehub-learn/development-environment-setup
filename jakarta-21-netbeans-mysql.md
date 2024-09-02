@@ -8,21 +8,24 @@
 - 128 GB Storage (SSD would be preferrable)
 - 2 Core CPU
 
-## Development IDE
-Download the latest **[NETBEANS_NAME_HERE](https://www.DOWNLOAD_LOCATION_HERE.com)** and install. 
-In case you prefer using another IDE, you are free to use it but the course will be delivered based on Eclipse. 
-
 ## Java Development Tools
-1. We will need Java 21. See instructions here for **[Java version 21](https://github.com/codehub-learn/DOWNLOAD_INSTRUCTIONS_HERE_FROM_OUR_OWN_GITHUB_IF_EXISTS_WE_HAVE_VERSION_17_INSTRUCTIONS)** CREATE VERSION 21 FROM THIS https://github.com/codehub-learn/development-environment-setup/blob/main/java-standard-edition-17.md.
-2. Maven will be installed by Netbeans. If you want to try it out independently of Netbeans, you can manually download and install from **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. 
-3. Create then an environmental variable named **MVN_HOME** pointing to Maven's installation folder.
+1. Download and install the Java LTS version 21 from **[JDK 21 downloads](https://www.oracle.com/java/technologies/downloads/)** (free software).
+2. In Windows, create an environment variable named **JAVA_HOME** pointing to JDK installation folder.
 
-## Database Tools
-1. See the instructions for **[installing MySQL](https://github.com/codehub-learn/DOWNLOAD_INSTRUCTIONS_HERE_FROM_OUR_OWN_GITHUB_IF_EXISTS)** the MySQL Server and the WHATEVER_ELSE_TOOL_WE_WILL_NEED tool
+Earlier versions of Java are not compatible with the course content, you will need to have version 21. If you already have an earlier version of Java on you machine, you do not need to uninstall it. You can let it be there and install version 21 along with that.
+
+## Development IDE
+1. Download the latest version of **[Apache NetBeans](https://netbeans.apache.org/front/main/index.html)** for your operating system and install (free software).
+
+If you prefer to use a different IDE, that is fine; support in the training, however, can only be provided for NetBeans. 
+
+## RDBMS
+1. Download and install the latest version of **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)** (free software).
+2. Download and install the latest version of **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** (free software).
 
 ## Application Server
-1. Download the zip file with the latest version of **[WildFly](https://www.wildfly.org/downloads/)**. Create a folder in your system where the zip file will be unzipped. It does not require any installation.
+1. Download the zip file with the latest version of **[WildFly](https://www.wildfly.org/downloads/)**. Set a folder in your system where the zip file will be unzipped. WildFly does not require any installation, so you can unzip in any folder that you have write access.
 
-## Other Tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)**.
-2. Create a **[Github account](https://github.com/join)** if you do not already have one.
+## Other tools
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you have an older version of git, it is highly recommended that you update to the latest version.
+2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to use).
