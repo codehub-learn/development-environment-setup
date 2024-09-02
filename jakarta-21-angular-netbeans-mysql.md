@@ -30,15 +30,15 @@ If you prefer to use a different IDE, that is fine; support in the training, how
 1. Download and install the [VSCode](https://code.visualstudio.com/download) editor (free software).
 2. Download and install an **LTS** version of [Node.js](https://nodejs.org/) (free software).
 
-Angular applications require an LTS version of Node.js in order to work properly; non-LTS version will not work as required. To verify that you have installed Node.js correctly, type the command `node -v` in a command line window and you should see the installed version of Node.js
+Angular applications require an LTS version of Node.js in order to work properly; non-LTS versions will not work as required. To verify that you have installed Node.js correctly, type the command `node -v` in a command line window and you should see the installed version of Node.js
 
-For Windows users: if the previous command is not working, verify that the path of the npm executable has been added to your PATH environment variable.
+For Windows users: if the previous command gives an error, verify that the path of the node executable has been added to your PATH environment variable.
 
 ## NPM
 
 **Npm** is already included in Node.js. To verify that you have it, type the command `npm -v` in a command line window and you should see the installed npm version.
 
-For Windows users: if the previous command is not working, verify that the path of the npm executable has been added to your PATH environment variable.
+For Windows users: if the previous command gives an error, verify that the path of the npm executable has been added to your PATH environment variable.
 
 ## Other tools
 1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you do not have the latest version of git, it is highly recommended that you update to the latest version.
