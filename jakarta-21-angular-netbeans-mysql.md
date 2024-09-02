@@ -26,6 +26,10 @@ If you prefer to use a different IDE, that is fine; support in the training, how
 ## Jakarta Application Server
 1. Download the zip file with the latest version of **[WildFly](https://www.wildfly.org/downloads/)**. Set a folder in your system where the zip file will be unzipped. WildFly does not require any installation, so you can unzip in any folder that you have write access.
 
+## Version Control tools
+1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you do not have the latest version of git, it is highly recommended that you update to the latest version.
+2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to create).
+
 ## VSCode for Angular
 1. Download and install the [VSCode](https://code.visualstudio.com/download) editor (free software).
 2. Download and install an **LTS** version of [Node.js](https://nodejs.org/) (free software).
@@ -40,12 +44,7 @@ For Windows users: if the previous command gives an error, verify that the path 
 
 For Windows users: if the previous command gives an error, verify that the path of the npm executable has been added to your PATH environment variable.
 
-## Other tools
-1. Download and install **[Git Version Control](https://git-scm.com/downloads)** (free software). If you do not have the latest version of git, it is highly recommended that you update to the latest version.
-2. Create a **[Github account](https://github.com/join)** if you don't already have one (free to create).
-
 ## Verification of Angular setup
-
 To verify that you have setup your local Angular environment correctly, follow the steps below.
 
 1. Clone this repository locally by running the command:
@@ -70,6 +69,6 @@ To verify that you have setup your local Angular environment correctly, follow t
   <img src="images/angular_app.png" alt="Angular Starter Kit is running" />
 </p>
 
-## Congratulations 👏
+## Congratulations! 👏
 
 You are now ready to learn how to develop Jakarta + Angular applications with Code.Hub 🔥
