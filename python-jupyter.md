@@ -10,8 +10,10 @@ Thiw training will be delivered using Jupyter Notebooks. There are two ways to u
 Download and install the latest [python](https://www.python.org/downloads/) vesrion.
 > [!IMPORTANT]  
 > During installation, **add python to your environmental variables**. That means that you have to check the box saying **ADD TO PATH** on the first screen during the installation
+
 > [!NOTE]
 > If prompted select to additionally install pip.
+
 > [!CAUTION]
 > We do **not** recommend using other python distributions (e.g. anaconda). 
 
