@@ -2,7 +2,7 @@
 
 ## Recommended Setup
 
-- [Python](https://www.python.org/): download and install the latest version for you operating system.
+[Python](https://www.python.org/): download and install the latest version for you operating system.
 
 
 ## How to set up your PC
