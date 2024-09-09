@@ -7,8 +7,10 @@
 
 ## How to set up your PC
 
-This course will mostly be done on Jupyter Notebooks. There are two ways to use this tool: locally or online. 
+This course will be done on Jupyter Notebooks. There are two ways to use this tool: locally or online. 
 
+### Ofline
+You will install the appropriate packages during the first session 
 
 ### Online
 
