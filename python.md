@@ -4,7 +4,7 @@ This course will be delivered using Jupyter Notebooks. There are two ways to use
 
 
 ## Local Setup
-[Python]<a href="https://www.python.org/" target="_blank">Python</a>: download and install the latest version for you operating system. 
+[Python]("https://www.python.org/"): download and install the latest version for you operating system. 
 
 You do not need to do anything else. You will install all the appropriate packages during the first session 
 
