@@ -7,6 +7,13 @@ This training will be delivered using **Jupyter Notebooks**. There are two ways 
 
 ### Locally for Windows
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 #### Download and install the latest [python](https://www.python.org/downloads/) vesrion.
 > [!IMPORTANT]  
 > During installation, **add python to your environmental variables**. That means that you have to check the box saying **ADD TO PATH** on the **first screen** during the installation
