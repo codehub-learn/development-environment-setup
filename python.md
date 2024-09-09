@@ -1,6 +1,6 @@
 # Starter Kit and Resources for Python
 
-This course will be delivered using Jupyter Notebooks. There are two ways to use this tool: locally or online. 
+This course will be delivered using Jupyter Notebooks. There are two ways to use this tool: **locally** or **online**. 
 
 
 ## Local Setup
