@@ -4,20 +4,6 @@ This course will be delivered using Jupyter Notebooks. There are two ways to use
 
 
 ## Local Setup
-[Python](https://www.python.org/): download and install the latest version for you operating system. 
-
-You do not need to do anything else. You will install all the appropriate packages during the first session 
-
-## Remote Setup (online) 
-
-There are several online providers for hosting Jupyter notebooks. We recommend using **Google Colaboratory**.
-
-Google Colaboratory is a cloud service that lets you create and edit python notebooks through the browser. You may write blocks of code (cells) and run them to get the output immediately, as well as cells of text (markdown) embedded with images, Latex etc. Also, you can install any python library you need, although most of them are already installed.
-
-**Requirement**: google account (your gmail)
-
-You can try it out [here](https://colab.research.google.com/notebooks/intro.ipynb)!
-
 
 ### Locally (for Windows)
 
@@ -37,11 +23,25 @@ You can try it out [here](https://colab.research.google.com/notebooks/intro.ipyn
 4. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
 5. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required will be pointed out in class.
 
-### Locally (other OS)
+### Locally (other OSs)
 
 Install python and pip through the OS's default package manager. Then run step 4 from before.
 
 *Note: Most linux and OSX distributions have Python 2 preinstalled. This is not compatible with what we will be seeing in this course. Either install Python 3 locally, or use the online tool described above!* 
+
+You do not need to do anything else. You will install all the appropriate packages during the first session 
+
+## Remote Setup (online) 
+
+There are several online providers for hosting Jupyter notebooks. We recommend using **Google Colaboratory**.
+
+Google Colaboratory is a cloud service that lets you create and edit python notebooks through the browser. You may write blocks of code (cells) and run them to get the output immediately, as well as cells of text (markdown) embedded with images, Latex etc. Also, you can install any python library you need, although most of them are already installed.
+
+**Requirement**: google account (your gmail)
+
+You can try it out [here](https://colab.research.google.com/notebooks/intro.ipynb)!
+
+
 
 
 ## Development IDE
