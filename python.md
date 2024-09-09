@@ -2,10 +2,8 @@
 
 ## Recommended Setup
 
-- Python > 3.7
-- Python packages: 
-  - jupyter
-  - numpy
+- Python download and install the latest version for you operating system.
+
 
 ## How to set up your PC
 
