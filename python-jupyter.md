@@ -1,11 +1,11 @@
 # Starter Kit and Resources for Python
 
-Thiw training will be delivered using Jupyter Notebooks. There are two ways to use this tool: **locally** or **remotely**. 
+This training will be delivered using **Jupyter Notebooks**. There are two ways to use this tool: **locally** or **remotely**. 
 
 
 ## Local Setup
 
-### Locally (for Windows)
+### Locally for Windows
 
 Download and install the latest [python](https://www.python.org/downloads/) vesrion.
 > [!IMPORTANT]  
@@ -17,19 +17,19 @@ Download and install the latest [python](https://www.python.org/downloads/) vesr
 > [!CAUTION]
 > We do **not** recommend using other python distributions (e.g. anaconda). 
 
-Verify that python is installed.
+1. Verify that python is installed.
     - Open a command prompt and type the command for launching a python interpreter. Depending on the OS and python's version this can either be `python`, `python3`, `py` or `py3`.
     - If none work, you need to add python to your environmental variables manually. To do this, find the interpreter in the installation directory and [add it as an environmental variable](https://www.computerhope.com/issues/ch000549.htm).
     - From now on we'll consider that python is installed and works with the command `python`. If this differs in your PC, use your own instead of `python` from now on.
-Verify that pip is installed.
+2. Verify that pip is installed.
     - Pip is a package manager for Python.
     - Open a command prompt and type the command `pip`.
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python scripy: `python get-pip.py`.
-5. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
-6. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required, like **jupyter** will be pointed out and installed in class.
+3. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
+4. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required, like **jupyter** will be pointed out and installed in class.
 
-### Locally (other OSs)
+### Locally for other OSs
 
 Install python and pip through the OS's default package manager. Then run step 4 from before.
 
