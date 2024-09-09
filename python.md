@@ -9,7 +9,7 @@
 
 This course will be done on Jupyter Notebooks. There are two ways to use this tool: locally or online. 
 
-### Ofline
+### Offline
 You will install the appropriate packages during the first session 
 
 ### Online
