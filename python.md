@@ -1,6 +1,6 @@
 # Starter Kit and Resources for Python
 
-This course will be delivered using Jupyter Notebooks. There are two ways to use this tool: **locally** or **online**. 
+This course will be delivered using Jupyter Notebooks. There are two ways to use this tool: **locally** or **remotely**. 
 
 
 ## Local Setup
@@ -8,7 +8,7 @@ This course will be delivered using Jupyter Notebooks. There are two ways to use
 
 You do not need to do anything else. You will install all the appropriate packages during the first session 
 
-## Online
+## Remote Setup (online) 
 
 There are several online providers for hosting Jupyter notebooks. We recommend using **Google Colaboratory**.
 
@@ -18,46 +18,6 @@ Google Colaboratory is a cloud service that lets you create and edit python note
 
 You can try it out [here](https://colab.research.google.com/notebooks/intro.ipynb)!
 
-We recommend using it through your google drive. You can set it up like this:
-
-1. Sign in to your google account and visit your google drive.
-2. Create a folder that will contain the notebooks that we will use in this course.
-3. Connect colaboratory add-on to your google drive.
-
-![](images/step1c.png)
-![](images/step2c.png)
-![](images/step3c.png)
-
-4. Either upload an existing notebook and open it with colab or create a new one
-
-![](images/step4c.png)
-
-#### Pros:
-- Environment is already setup, no need for installations/configurations.
-- Pip and commonly used libraries are preinstalled.
-- Processing is offloaded to a remote server, no need for computational power from your end.
-
-#### Cons:
-- Requires an internet connection.
-- Slower than running it locally (in most cases).
-- Data need to be uploaded to colab (or google drive).
-
-#### Quickstart
-
-![](images/step5c.png)
-
-- Add a new code or text cell by clicking on the "+ Code" or "+ Text" button under the Menu bar
-- Write a python command on a code cell (e.g. print ("hello world) )
-- Run it by clicking the "play" button on the left of a code cell or by clicking Shift+Enter 
-- To run an os command add "!" in the beggining (e.g. !pip3 list)
-- Double-click on a text cell (markdown) in order to edit it
-- You can use a GPU by selecting "Runtime -> Change runtime type" and setting the "Hardware accelerator"
-- To upload a file to colab, click on the "Files" tab on the left, then click "Upload" and select a file
-- You may also click on "Mount Drive" to get access to all your files on drive
-- Install a python library using pip3 (e.g !pip3 install --upgrade scikit-learn)
-- Import a library (e.g. import pandas)
-- Download your code as a python file by selecting "File -> Dowload .py"
-- Restart kernel (reset all variables) by selecting "Runtime -> Restart runtime..."
 
 ### Locally (for Windows)
 
