@@ -1,18 +1,12 @@
 # Starter Kit and Resources for Python
 
-## Recommended Setup
-
-[Python](https://www.python.org/): download and install the latest version for you operating system.
+This course will be delivered using Jupyter Notebooks. There are two ways to use this tool: locally or online. 
 
 
-## How to set up your PC
+## Local Setup
+[Python](https://www.python.org/): download and install the latest version for you operating system. You do not need to do anything else. You will install all the appropriate packages during the first session 
 
-This course will be done on Jupyter Notebooks. There are two ways to use this tool: locally or online. 
-
-### Offline
-You will install the appropriate packages during the first session 
-
-### Online
+## Online
 
 There are several online providers for hosting Jupyter notebooks. We recommend using **Google Colaboratory**.
 
