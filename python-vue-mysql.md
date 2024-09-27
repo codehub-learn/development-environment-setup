@@ -1,15 +1,15 @@
-# Starter Kit and Resources 
+# Starter Kit and Resources Python, Javascript, Vue and MySQL 
 
 
 
-# Python
+## Python
 
 This training will be delivered using **Jupyter Notebooks**. There are two ways to use this tool: **locally** or **remotely**. 
 
 
-## Local Setup
+### Local Setup
 
-### Locally for Windows
+#### Locally for Windows
 
 **Download** and **install** the latest [Python](https://www.python.org/downloads/) vesrion.
 
@@ -36,7 +36,7 @@ Next
 3. Upgrade pip by running `pip install --upgarade pip` or `python -m pip install --upgrade pip`.
 4. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required, like **jupyter** will be pointed out and installed in class.
 
-### Locally for other OSs
+#### Locally for other OSs
 
 Install python and pip through the OS's default package manager. Then run step 4 from before.
 
@@ -45,7 +45,7 @@ Install python and pip through the OS's default package manager. Then run step 4
 You do not need to do anything else. You will install all the appropriate packages during the first session 
 
 
-## Remote Setup (online) 
+### Remote Setup (online) 
 
 There are several online providers for hosting Jupyter notebooks. We recommend using **Google Colaboratory**.
 
@@ -56,9 +56,9 @@ Google Colaboratory is a cloud service that lets you create and edit python note
 You can try it out [here](https://colab.research.google.com/notebooks/intro.ipynb)!
 
 
-# Node.JS for Vue.js and Javascript
+## Node.JS for Vue.js and Javascript
 
-## Software Requirements
+### Software Requirements
 
 Before starting please make sure that you have successfully installed the below dependencies on your development environment.
 
@@ -66,21 +66,21 @@ Before starting please make sure that you have successfully installed the below 
 - [npm](https://www.npmjs.com/) - is the official Nodejs Package Manager (npm) which allows the management of dependencies and packages. It is automatically installed with nodejs, so you don't have to install it separately.
 - [Git](https://git-scm.com/) / [GitHub account](https://github.com/) - is a version control system for source code and GitHub is a community site that enables the easy creation and collaboration on Git projects.
 
-## Verifying installation
+### Verifying installation
 
 After installing node please verify that you have set up everything correctly by typing the below commands on your terminal:
 
 - `node -v` (any version above or equal 17 is fine)
 - `npm -v` (any version or equal 7 is fine)
 
-## Code editor 
+### Code editor 
 
 Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a tone of extensions/plugins, and it is an industry standard. 
 
 VS Code will be used within class.
 
 
-# MySQL RDBMS
+## MySQL RDBMS
 1. Download and install the latest version of **[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)** (free software).
 2. Download and install the latest version of **[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)** (free software).
 
