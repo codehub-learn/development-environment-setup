@@ -1,4 +1,4 @@
-# Development Toolset for Full-stack Operations Software Engineer Bootcamp
+# Development Toolset for Full-Stack Operations Software Engineer Bootcamp
 
 ## Python
 Use the following [guidelines](https://github.com/codehub-learn/development-environment-setup/blob/main/python-jupyter.md) for the required installations of Python.
