@@ -9,7 +9,7 @@
 
 5. Install [DDEV Drupal](https://ddev.readthedocs.io/en/stable/users/quickstart/#drupal-drupal-10)
 
-7. Install [Microsoft's WSL VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+7. Install [Microsoft's WSL VS Code extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) if you use VS Code as your IDE.
 
 ### Code editor 
 
