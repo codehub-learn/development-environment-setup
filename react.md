@@ -12,8 +12,8 @@ Before starting please make sure that you have successfully installed the below 
 
 After installing node please verify that you have set up everything correctly by typing the below commands on your terminal:
 
-- `node -v` ➡️ (any version above or equal 17 is fine),
-- `npm -v` ➡️ (any version or equal 7 is fine).
+- `node -v` ➡️ (latest LTS version),
+- `npm -v` ➡️ (latest LTS version).
 
 ## Code editor
 
