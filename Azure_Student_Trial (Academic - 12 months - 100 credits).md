@@ -79,3 +79,40 @@ In order to follow the course(s), you will need to have credits in your Azure ac
 10. Within the page, you should be able to see an “Azure for Students” subscription which should be active:
 
 ![img_10.png](images/(new)%20azure_for_students_img_10.png)
+
+11. On top of the Portal page, within the search bar, write Quotas and click on it:
+
+![img_11.png](images/(new)%20azure_for_students_img_11.png)
+
+
+12. On the left sidebar click on "Settings" > "My Quotas"
+
+![img_12.png](images/(new)%20azure_for_students_img_12.png)
+
+### You should be able to see a list of available Quotas. **If not, please proceed to the following steps.**
+
+![img_13.png](images/(new)%20azure_for_students_img_13.png)
+
+***
+
+### If you are seeing the below screen, which means that you have no quotas available, follow the next steps.
+
+![img_14.png](images/(new)%20azure_for_students_img_14.png)
+
+13. Go back to the "Subscriptions" page and click on the available subscription name "Azure for Students".
+
+![img_15.png](images/(new)%20azure_for_students_img_15.png)
+
+14. On the left sidebar click on "Settings" > "Resource Providers" and search for "Compute"
+
+![img_16.png](images/(new)%20azure_for_students_img_16.png)
+
+15. Find the "Microsoft.Compute" provider, click on the "NotRegistered" status and select "Register"
+
+![img_17.png](images/(new)%20azure_for_students_img_17.png)
+
+16. Wait a few moments and the status should be changed to "registered".
+
+![img_18.png](images/(new)%20azure_for_students_img_18.png)
+
+17. Go back to **Step 11** and check the available quotas.
