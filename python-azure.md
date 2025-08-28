@@ -24,6 +24,8 @@ Next
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python scripy: `python get-pip.py`.
 3. Packages required during this course can be installed using the pip package manager. Either `pip install package-name` or `python -m pip install package-name`. Any package that is required will be pointed out and installed in class.
 
+## Code editor
+Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
 
 # Setup a free Microsoft Azure Account?
 
