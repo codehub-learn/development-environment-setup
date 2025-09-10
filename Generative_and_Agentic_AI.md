@@ -53,4 +53,5 @@ Install the latest LTS version of **[Node.js](https://nodejs.org/en/)**
 ## Accounts
 1. There is no need to create an **MS Azure** account. One will be provided to you in class.
 1. Create a **[Hugging Face account](https://huggingface.co/)**
+1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
