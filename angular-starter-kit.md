@@ -8,14 +8,14 @@ Starter kit for developing web apps with Code.Hub and Angular
 
 ## Recommended Setup ⚒️
 
-- Visual Studio Code (VSCode)
+- Visual Studio Code (VSCode) or WebStorm
 - Node.js
 - npm
 - Git
 
 ## Installation instructions 📑
 
-1. Download and install [VSCode](https://code.visualstudio.com/download) editor.
+1. Download and install [VSCode](https://code.visualstudio.com/download) editor. Alternatively, you can download [WebStorm](https://www.jetbrains.com/webstorm/) from the JetBrains website.
 2. Download and install an **LTS** version of [Node.js](https://nodejs.org/). To verify that you have installed it
    correctly type the command `node -v` in a command line window and it should display the installed version of Node.js
 
