@@ -43,8 +43,13 @@ Be careful with the database names, there are many databases available on that p
 The installation of the databases in MSSQL Server will be shown in one of the course sessions.
 
 ## Development IDE 
+**[Visual Studio Code](https://code.visualstudio.com/download)**  for python script execution. 
 
-**[Visual Studio Community](https://visualstudio.microsoft.com/downloads/)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
+## python 
+**[python](https://github.com/codehub-learn/development-environment-setup/blob/main/python-integration-visualization.md)**    python programming language. 
+
+## Docker Desktop 
+**[Docker Desktop](https://github.com/codehub-learn/development-environment-setup/blob/main/docker.md)**    
 
 ## SQL Server Development Tools 
 1. The **[SQL Server Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects2022)** installed for Visual Studio. 

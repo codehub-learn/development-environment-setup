@@ -12,12 +12,12 @@ Before starting please make sure that you have successfully installed the below 
 
 After installing node please verify that you have set up everything correctly by typing the below commands on your terminal:
 
-- `node -v` ➡️ (any version above or equal 17 is fine),
-- `npm -v` ➡️ (any version or equal 7 is fine).
+- `node -v` ➡️ (latest LTS version),
+- `npm -v` ➡️ (latest LTS version).
 
 ## Code editor
 
-Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a tone of extensions/plugins, and it is an industry standard. 
+Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
 
 VS Code will be used within class with the following extensions:
 

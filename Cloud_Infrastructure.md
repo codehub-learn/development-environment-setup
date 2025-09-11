@@ -1,11 +1,9 @@
 ## Azure Account
-**[Create a student Azure Account using your Ath.Tech email](https://azure.microsoft.com/en-us/free/students/)**
+**[Create a student Azure Account using your Ath.Tech email](https://github.com/codehub-learn/development-environment-setup/blob/main/Azure_Student_Trial%20(Academic%20-%2012%20months%20-%20100%20credits).md)**
 
 
 ## Development Tools
-**[Visual Studio 2022 Community](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)**  or better with the Data storage and processing workload installed, including the SQL Server Data Tools component. 
-
-The **[Microsoft Analysis Services Projects extension](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftAnalysisServicesModelingProjects)** installed for Visual Studio.
+**[Visual Studio 2022 Community](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes)**  or better with the  Azure development and ASP.NET and web development workloads selected during installation.
 
 **[Visual Studio Code](https://code.visualstudio.com/)**
 
