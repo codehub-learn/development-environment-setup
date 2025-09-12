@@ -46,6 +46,10 @@ Install the latest LTS version of **[Node.js](https://nodejs.org/en/)**
         node -v (any version above or equal 17 is fine)
         npm -v (any version or equal 7 is fine)
         ```
+        
+### Microsoft Authenticator
+To access your azure account 2 Factor Authentication is required. Using your mobile device connect to your store and install **Microsoft Authenticator App**
+
 
 ### Git
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
@@ -56,4 +60,5 @@ Install the latest LTS version of **[Node.js](https://nodejs.org/en/)**
 1. Create a **[Hugging Face account](https://huggingface.co/)**
 1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
+
 
