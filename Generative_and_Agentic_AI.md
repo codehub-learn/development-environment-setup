@@ -24,9 +24,9 @@
 
 ## pipx
 Follow the instruction to install **[pipx](https://pipx.pypa.io/stable/installation/)** to your operating system
+
 ## Code editor
 Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
-
 
 ## Docker
 ### Windows
@@ -38,8 +38,8 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 
 1. The installer will perform one or more restarts during installation. Once again, after your machine restarts.
 
-### for Linux/Mac follow the instrtuction given in 
-**[Desktop Docker](https://docs.docker.com/desktop/)**
+### Linux/Mac
+Go to **[Desktop Docker](https://docs.docker.com/desktop/)**
 From the left menu choose Product --> Setup --> Install and follow the instructions according to your operating system.
 
 ### Node.js
@@ -63,6 +63,7 @@ To access your azure account 2 Factor Authentication is required. Using your mob
 1. Create a **[Hugging Face account](https://huggingface.co/)**
 1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
+
 
 
 
