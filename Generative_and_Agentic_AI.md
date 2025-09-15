@@ -29,7 +29,7 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 
 
 ## Docker
-
+### Windows
 1. Download **[Desktop Docker for Windows installer](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)**
 
 1. Run the Docker installer. **You will need administrator access for this step**.
@@ -38,6 +38,9 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 
 1. The installer will perform one or more restarts during installation. Once again, after your machine restarts.
 
+### for Linux/Mac follow the instrtuction given in 
+**[Desktop Docker](https://docs.docker.com/desktop/)**
+From the left menu choose Product --> Setup --> Install and follow the instructions according to your operating system.
 
 ### Node.js
 Install the latest LTS version of **[Node.js](https://nodejs.org/en/)**
@@ -60,5 +63,6 @@ To access your azure account 2 Factor Authentication is required. Using your mob
 1. Create a **[Hugging Face account](https://huggingface.co/)**
 1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
+
 
 
