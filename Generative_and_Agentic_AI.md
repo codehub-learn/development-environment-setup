@@ -28,7 +28,7 @@ To install every python tool in an isolated environment without interfere with a
     python -m pip install --user pipx
     python -m pipx ensurepath
 ```
-## poetry - Python packaging and dependency manager
+## poetry - Python Packaging and Dependency Manager
 To install poetry in a terminal issue the following command
 ```bash
     pipx install poetry
@@ -79,6 +79,7 @@ To access your azure account 2 Factor Authentication is required. Using your mob
 1. Create a **[Hugging Face account](https://huggingface.co/)**
 1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
+
 
 
 
