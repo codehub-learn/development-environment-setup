@@ -23,7 +23,24 @@
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python script (on a terminal): `python get-pip.py`.
 
 ## pipx
-Follow the instruction to install **[pipx](https://pipx.pypa.io/stable/installation/)** to your operating system
+To install every python tool in an isolated environment without interfere with all the other tools and the basic installation of the python you have to install **pipx**. Open a terminal and issue the following commands:
+```bash
+    python -m pip install --user pipx
+    python -m pipx ensurepath
+```
+## poetry - Python packaging and dependency manager
+To install poetry in a terminal issue the following command
+```
+```bash
+    pipx install poetry
+```
+If you want the .venv inside your project run
+```bash
+    poetry config virtualenvs.in-project true
+```
+(it is a global configuration - one time setup)
+
+
 
 ## Code editor
 Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
@@ -63,6 +80,7 @@ To access your azure account 2 Factor Authentication is required. Using your mob
 1. Create a **[Hugging Face account](https://huggingface.co/)**
 1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
+
 
 
 
