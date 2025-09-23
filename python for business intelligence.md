@@ -1,4 +1,4 @@
-# Starter Kit and Resources for Python, VS Code and Hagging Face 
+# Starter Kit and Resources for Python and VS Code  
 ## Python
 **Download** and **install** the latest [Python](https://www.python.org/downloads/) vesrion.
 
@@ -31,5 +31,4 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
 
 ## Accounts
-1. Create a **[Hugging Face account](https://huggingface.co/)**
-2. Create a **[Github account](https://github.com/join)**
+Create a **[Github account](https://github.com/join)**
