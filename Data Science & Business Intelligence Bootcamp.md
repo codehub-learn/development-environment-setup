@@ -1,4 +1,4 @@
-# Starter Kit and Resources for the Data Science & Business Intelligence
+# Starter Kit and Resources for Data Science & Business Intelligence
 
 ## Required software 
 You will need the MS-SQL Server database (RDBMS), the MS-SQL Server management interface and the Power BI desktop application.
