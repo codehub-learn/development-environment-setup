@@ -14,7 +14,7 @@ In detail you have to download:
 3. Latest version of Power BI
    - Download the **[Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)** and install the PBIDesktopSetup_x64.exe.
 
-4. Python > 3.7
+4. Python > 3.12
 
 
 ## Other tools
