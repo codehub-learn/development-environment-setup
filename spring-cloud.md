@@ -13,7 +13,7 @@
 
 ## Java Development Tools
 1. Java Development Toolkit, download and install one the latest LTS version **[JDK 21 or JDK 25](https://bell-sw.com/pages/downloads/)**. Create an environmental variable named **JAVA_HOME** pointing to the JDK installation folder.
-2. Maven, download **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through the Maven dependency management mechanism, we will download every library needed in our projects.  Create an environmental variable named **MVN_HOME** pointing to Maven's installation folder.
+2. Maven, download latest **[Maven](https://maven.apache.org/download.cgi)** and follow the **[instructions](https://maven.apache.org/install.html)**. Through the Maven dependency management mechanism, we will download every library needed in our projects.  Create an environmental variable named **MVN_HOME** pointing to Maven's installation folder.
 3. Add **%JAVA_HOME%\bin** and **%MVN_HOME%\bin** to your **PATH** envrionmental variable.
 
 ## Other tools
