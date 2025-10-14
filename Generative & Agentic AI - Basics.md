@@ -58,18 +58,7 @@ Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudi
 Go to **[Desktop Docker](https://docs.docker.com/desktop/)**
 From the left menu choose Product --> Setup --> Install and follow the instructions according to your operating system.
 
-### Node.js
-Install the latest LTS version of **[Node.js](https://nodejs.org/en/)**
-   - After installing node please verify that you have set up everything correctly by typing the below commands on your terminal:
-        ```bash 
-        node -v (any version above or equal 17 is fine)
-        npm -v (any version or equal 7 is fine)
-        ```
         
-### Microsoft Authenticator
-To access your azure account 2 Factor Authentication is required. Using your mobile device connect to your store and install **Microsoft Authenticator App**
-
-
 ### Git
 1. Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
 
@@ -77,7 +66,6 @@ To access your azure account 2 Factor Authentication is required. Using your mob
 ## Accounts
 1. There is no need to create an **MS Azure** account. One will be provided to you in class.
 1. Create a **[Hugging Face account](https://huggingface.co/)**
-1. Create a **[Postman account](https://www.postman.com/)**
 1. Create a **[Github account](https://github.com/join)**
 
 
