@@ -1,4 +1,4 @@
-# Generative and Agentic AI: Development Environment Setup Guide
+# Generative and Agentic AI: Minimum Development Environment Setup Guide
 
 ## Python
 **Download** and **install** the latest [Python](https://www.python.org/downloads/) vesrion.
