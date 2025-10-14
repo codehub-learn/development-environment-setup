@@ -22,25 +22,6 @@
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python script (on a terminal): `python get-pip.py`.
 
-## pipx
-To install every python tool in an isolated environment without interfere with all the other tools and the basic installation of the python you have to install **pipx**. Open a terminal and issue the following commands:
-```bash
-    python -m pip install --user pipx
-    python -m pipx ensurepath
-```
-## poetry - Python Packaging and Dependency Manager
-To install poetry in a terminal issue the following command
-```bash
-    pipx install poetry
-```
-If you want the .venv inside your project run
-```bash
-    poetry config virtualenvs.in-project true
-```
-(it is a global configuration - one time setup)
-
-
-
 ## Code editor
 Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
 
