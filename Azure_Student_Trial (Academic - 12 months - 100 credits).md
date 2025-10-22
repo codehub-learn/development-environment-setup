@@ -3,8 +3,7 @@
 In order to follow the course(s), you will need to have credits in your Azure account. One of the easiest ways to obtain these credits is by applying for an Azure for Students subscription through the following [link](https://azure.microsoft.com/en-us/free/students/).
 
 ## Required Setup
-- Academic E-mail OR
-- AthTech E-mail
+- Academic E-mail 
 
 ## Step-by-step
 
