@@ -12,7 +12,7 @@
 > [!CAUTION]
 > We do **not** recommend using other python distributions (e.g. anaconda). 
 
-Verify that python is installed.
+***Verify that python is installed***
     - Open a command prompt and type the command for launching a python interpreter. Depending on the OS and python's version this can either be `python`, `python3`, `py` or `py3`.
     - If none work, you need to add python to your environmental variables manually. To do this, find the interpreter in the installation directory and [add it as an environmental variable](https://www.computerhope.com/issues/ch000549.htm).
     - From now on we'll consider that python is installed and works with the command `python`. If this differs in your PC, use your own instead of `python` from now on.
