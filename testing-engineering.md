@@ -28,13 +28,13 @@ Below are the required tools for testing. All tools and accounts are free to use
 
 You can skip this step if you already have Java 21 or later installed.
 
-- Choose **Temurin 21**.
+- Choose **Temurin 25** (this is the default choice).
 - Download the installer for your operating system.
-- After installation, verify with: `java -version`.
+- After installation, verify with: `java -version` on a command line.
 
 ---
 
-## Tool 4 - IntelliJ IDEA Community Edition
+## Tool 4 - IntelliJ IDEA
 
 **Download:** https://www.jetbrains.com/idea/download
 
@@ -42,10 +42,11 @@ You can skip this step if you already have your own Java IDE installed, but supp
 
 IntelliJ must be installed after you have installed Java.
 
-- Select **Community Edition** (free).
+- Select your operating system versioin.
 - Enable **“Add to PATH”** during installation if available.
 - On first launch, choose **“Do not import settings”**.
 - IntelliJ will automatically detect Java on first launch.
+- It has paid features but none are required for this course, you can ignore them.
 
 ---
 
@@ -66,4 +67,3 @@ IntelliJ must be installed after you have installed Java.
 You may already be using your favorite browser, but Google Chrome is recommended for UI testing and Selenium automation.
 
 - Keep Chrome updated to avoid compatibility issues with the other tools that will be used.
-
