@@ -1,3 +1,5 @@
+<!-- https://github.com/codehub-learn/development-environment-setup/edit/main/testing-engineering.md -->
+
 # Installation Instructions for Testing Tools
 
 Below are the required tools for testing. All tools and accounts are free to use.
@@ -28,7 +30,7 @@ Below are the required tools for testing. All tools and accounts are free to use
 
 You can skip this step if you already have Java 21 or later installed.
 
-- Choose **Temurin 25** (this is the default choice).
+- Choose **Temurin JDK 25 LTS** (this is the default choice).
 - Download the installer for your operating system.
 - After installation, verify with: `java -version` on a command line.
 
@@ -46,7 +48,7 @@ IntelliJ must be installed after you have installed Java.
 - Enable **“Add to PATH”** during installation if available.
 - On first launch, choose **“Do not import settings”**.
 - IntelliJ will automatically detect Java on first launch.
-- It has paid features but none are required for this course, you can ignore them.
+- It has paid features which may be activated for 30 days, but none are required for this course, you can ignore them.
 
 ---
 
@@ -67,3 +69,4 @@ IntelliJ must be installed after you have installed Java.
 You may already be using your favorite browser, but Google Chrome is recommended for UI testing and Selenium automation.
 
 - Keep Chrome updated to avoid compatibility issues with the other tools that will be used.
+
