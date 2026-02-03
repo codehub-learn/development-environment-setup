@@ -54,6 +54,10 @@ You can any IDE/code editor. [VS Code](https://code.visualstudio.com/)  is prefe
 > Regardless of IDE, always make sure it uses the **Python interpreter
 > from your `.venv`** (the respective virtual environment).
 
+## Other tools
+Git, download and install **[Git Version Control](https://git-scm.com/downloads)**
+
+
 ---
 
 ## 3) Databases (SQLite + PostgreSQL)
