@@ -44,7 +44,7 @@ python -m pip --version
 
 ## 2) IDEs/Editor
 
-You can any IDE/code editor. VS Code is preferred
+You can any IDE/code editor. [VS Code](https://code.visualstudio.com/)  is preferred
 
 ### VS Code
 - Lightweight and popular for Python development
@@ -81,8 +81,11 @@ pip install psycopg2-binary
 
 ---
 
-## 4) Azure account
+## 4) Accounts
 
 ### Create or use an Azure account 
-An account at https://portal.azure.com is needed
+An account at [azure](https://portal.azure.com) is needed
+
+### Create or use a github account
+Create a **[Github account](https://github.com/join)**
 
