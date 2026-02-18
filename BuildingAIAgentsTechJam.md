@@ -6,7 +6,7 @@ For this Tech Jam to run you will need:
 
 Docker installation instructions can be seen [in this link](https://docs.docker.com/desktop/install/windows-install/). If you do not want to study the instructions there, we have summarized the process that you need to follow in the next steps. The process will require administration access during many of the steps described here.
 
-1. Download **Desktop Docker for Windows installer** (https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe, approximately 540 MB)
+1. Download **Desktop Docker for Windows installer** 
 
 1. Run the Docker installer. **You will need administrator access for this step**.
 
