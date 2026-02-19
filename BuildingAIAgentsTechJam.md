@@ -5,7 +5,10 @@ This document rovides a clear, technical roadmap for setting up the **Cloud-Only
 To maximize our time during the **12-hour Tech Jam**, every participant must complete the following account setups. This ensures you have the necessary "Keys" to power your AI Agents.
 
 **Estimated Time:** 15–20 Minutes
-**Requirements:** A web browser (Chrome or Edge recommended) and a stable internet connection. **No installation is required.**
+
+**Requirements:** A web browser (Chrome or Edge recommended) and a stable internet connection. 
+
+**No installation is required.**
 
 ---
 
