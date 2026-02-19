@@ -10,7 +10,7 @@ To maximize our time during the **12-hour Tech Jam**, every participant must com
 
 **No installation is required.**
 
----
+
 
 ## 1. Flowise Cloud (The Command Center)
 
@@ -22,7 +22,7 @@ This is where we will build our AI workflows and the **Pharma-IQ** agent.
 4. 
 **Verification:** Once logged in, you should see an empty dashboard with a side menu (Chatflows, Marketplaces, Credentials, etc.).
 
----
+
 
 ## 2. Groq (The Brain / LLM)
 
@@ -46,7 +46,6 @@ We use Google’s Gemini to convert Pfizer documents into a format the AI can "r
 4. Click **"Create API key in new project"**.
 5. **Copy the key** and save it. We will use the `gemini-embedding-001` model during Session 3.
 
----
 
 ## 4. Web Search Tools (The Hands / Real-Time Data)
 
