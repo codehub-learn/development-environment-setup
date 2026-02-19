@@ -1,10 +1,6 @@
-# Building AI Agents - Tech Jam
+#🚀 Building AI Agents - Pre Tech-Jam Setup Guide
 
-This document is designed to be sent to participants one week before the workshop. It provides a clear, technical roadmap for setting up the **Cloud-Only AI Stack** for the **Pharma-IQ Capstone Project**.
-
----
-
-# 🚀 Pre-Workshop Setup Guide: Pharma-IQ Cloud Stack
+This document rovides a clear, technical roadmap for setting up the **Cloud-Only AI Stack** for the **Building AI Agents Tech-Jam**.
 
 To maximize our time during the **12-hour Tech Jam**, every participant must complete the following account setups. This ensures you have the necessary "Keys" to power your AI Agents.
 
@@ -23,8 +19,6 @@ This is where we will build our AI workflows and the **Pharma-IQ** agent.
 4. 
 **Verification:** Once logged in, you should see an empty dashboard with a side menu (Chatflows, Marketplaces, Credentials, etc.).
 
-
-
 ---
 
 ## 2. Groq (The Brain / LLM)
@@ -36,8 +30,6 @@ Groq provides the high-speed Large Language Models (LLMs) that act as the "reaso
 3. Navigate to **Settings** → **API Keys** in the sidebar.
 4. Click **"Create API Key"**.
 5. **Important:** Name it "Pharma-IQ-Key" and **copy the key immediately**. Store it in a notepad; you won't be able to see it again once you close the window.
-
-
 
 ---
 
@@ -88,12 +80,4 @@ Before arriving at Session 1, ensure you have the following keys saved in a secu
 | **Google AI Key** | Document Reading (RAG) | `Google Gemini Embeddings` |
 | **Tavily/Serp Key** | Live Medical Research | <br>`Tavily Search` / `SerpAPI` 
 
- |
-
----
-
-## 💡 Pro-Tip for Session 1
-
-If you encounter a **401 Unauthorized** error during our first exercise, it usually means your API key was copied incorrectly or has expired. Always double-check that there are no extra spaces when pasting your credentials into Flowise.
-
-**Would you like me to prepare the Instructor's "Tech-Check" script to verify these accounts at the start of Session 1?**
+ 
