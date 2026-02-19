@@ -64,20 +64,3 @@ SerpAPI is a powerful alternative that mimics Google Search.
 1. Go to [serpapi.com](https://serpapi.com).
 2. Register for a free account (provides 100 searches/month).
 3. Navigate to your **Dashboard** and copy the **Private API Key**.
-
----
-
-## 🛡️ Setup Checklist Summary
-
-Before arriving at Session 1, ensure you have the following keys saved in a secure document:
-
-| Service | Purpose | Node in Flowise |
-| --- | --- | --- |
-| **Flowise Cloud** | Application Platform | N/A |
-| **Groq API Key** | Thinking & Reasoning | <br>`ChatGroq` 
-
- |
-| **Google AI Key** | Document Reading (RAG) | `Google Gemini Embeddings` |
-| **Tavily/Serp Key** | Live Medical Research | <br>`Tavily Search` / `SerpAPI` 
-
- 
