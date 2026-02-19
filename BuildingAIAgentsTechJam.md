@@ -1,4 +1,4 @@
-# 🚀 Building AI Agents - Pre Tech-Jam Setup Guide
+# Building AI Agents - Pre Tech-Jam Setup Guide
 
 This document rovides a clear, technical roadmap for setting up the **Cloud-Only AI Stack** for the **Building AI Agents Tech-Jam**.
 
