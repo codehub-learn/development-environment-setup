@@ -20,8 +20,7 @@ This is where we will build our AI workflows and the **Pharma-IQ** agent.
 1. Go to [flowiseai.com](https://flowiseai.com).
 2. Click on **"Get Started with Cloud"**.
 3. Register for a free account.
-4. 
-**Verification:** Once logged in, you should see an empty dashboard with a side menu (Chatflows, Marketplaces, Credentials, etc.).
+4. **Verification:** Once logged in, you should see an empty dashboard with a side menu (Chatflows, Marketplaces, Credentials, etc.).
 
 
 
