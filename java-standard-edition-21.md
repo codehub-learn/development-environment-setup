@@ -1,4 +1,4 @@
-# Hardware and software requirements for Java Standard Edition development (Java SE 21 or later)
+# Hardware and software requirements for Java Standard Edition development (Java SE version 21 to version 25)
 &nbsp;
 &nbsp;
 
