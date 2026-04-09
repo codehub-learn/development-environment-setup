@@ -43,6 +43,14 @@ Please install the **C/C++ extension** for VS Code. We will use it for the C++ p
 - Extension page: [C/C++ for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - Microsoft overview: [C/C++ in VS Code](https://code.visualstudio.com/docs/languages/cpp)
 
+ For the cpp compiler, follow the steps
+#### MSYS2  installation
+- Download  msys2-x86_64-20260322.exe from: https://www.msys2.org
+- Install it, use recommended configuration,  and open MSYS2 terminal
+- Run: pacman -S mingw-w64-x86_64-gcc
+- Add this folder to your PATH: C:\msys64\mingw64\bin
+ 
+
 ## 6. Oracle SQL Developer for VS Code
 
 Please install **Oracle SQL Developer for VS Code**. We will use it for Oracle SQL and PL/SQL exercises.
