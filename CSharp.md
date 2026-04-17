@@ -10,4 +10,4 @@
  
 ### Database development
 * [SQL Server Developer Edition](https://go.microsoft.com/fwlink/?linkid=866662) 
-* [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) (Recommended) or Azure Data Studio
+* [SQL Server Management Studio](https://learn.microsoft.com/en-us/ssms/install/install?view=sql-server-ver15) (Recommended) or Azure Data Studio
