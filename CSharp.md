@@ -2,7 +2,7 @@
 ## Here are the development tools required to enable you to start coding on C#.
 
 #### .NET Development Tools
-* [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/) (Or higher)
+* [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)  
 
 #### During the installation select the workloads shown in red, below:
 
