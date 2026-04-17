@@ -9,5 +9,5 @@
 ![Image of Workloads](https://github.com/codehub-learn/development-environment-setup/blob/main/images/CSharp_workloads.png)
  
 ### Database development
-* [SQL Server 2022 Developer Edition](https://go.microsoft.com/fwlink/?linkid=866662) (Or higher)
+* [SQL Server Developer Edition](https://go.microsoft.com/fwlink/?linkid=866662) 
 * [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) (Recommended) or Azure Data Studio
