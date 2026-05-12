@@ -11,7 +11,7 @@
 
 ## Tools
 Download and install
-1. **[Claude Code ](https://claude.com/download)**. 
-1. **[Git Version Control](https://git-scm.com/downloads)**.
-2. Optionally, latest **[Node.js LTS version]([https://nodejs.org/en/download/current)**.
-3. Create a **[Github account](https://github.com/join)**, if you don't already have one.
+1. **[Claude Code ](https://claude.com/download)**
+1. **[Git Version Control](https://git-scm.com/downloads)**
+1. Optionally, latest **[Node.js LTS version]([https://nodejs.org/en/download/current)**
+1. Create a **[Github account](https://github.com/join)**, if you don't already have one
