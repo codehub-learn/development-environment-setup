@@ -24,5 +24,6 @@ Before getting started, make sure you have the following installed and set up:
    Version control system required for managing your projects.
 1. **[GitHub Account](https://github.com/join)**.
    Create a free account if you don't already have one.
+1. Your preferred programming language environment. Since this workshop involves generating and running code, make sure your language runtime, package manager, and any relevant tools are installed and working. Examples: Java + Maven/Gradle, Python + pip/uv, .NET SDK, Ruby + Bundler, Node.js + npm/yarn, etc.
 
 > **Note:** Skip any items you already have installed or set up.
