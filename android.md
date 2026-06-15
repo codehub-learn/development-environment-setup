@@ -5,9 +5,10 @@
 Στα πλαίσια αυτής της εκπαίδευσης, ο εκπαιδευόμενος δε χρειάζεται να έχει προηγούμενη εμπειρία στην υλοποίηση mobile εφαρμογών.
 
 # Τι χρειαζόμαστε!
-  - IDE -> [Android Studio][androidDev]
-  - [Java Run Time][javaDev]
 
+- IDE -> [Android Studio][androidDev]
+- [Java Run Time][javaDev]
 
 [androidDev]: <https://developer.android.com/studio>
+
 [javaDev]: <https://www.java.com/en/download/>
