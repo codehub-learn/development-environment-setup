@@ -91,9 +91,9 @@ After authentication completes, run `claude`. That is it. Claude Code is now run
 
 ### Support
 
-For issues or questions, contact IT Support:
+For issues or questions, contact Mr. Nikolaos Reppas:
 
-**wpadmins@nbg.gr**<br>
+**reppas.nikolaos@nbg.gr**<br>
 Subject: Claude Code Issue
 
 ## Get Ready for the Training
