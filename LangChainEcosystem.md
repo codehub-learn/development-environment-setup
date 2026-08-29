@@ -1,4 +1,4 @@
-# Generative and Agentic AI: Minimum Development Environment Setup Guide
+# LangChain Ecocystem Setup Guide
 
 ## Python
 **Download** and **install** the latest [Python](https://www.python.org/downloads/) vesrion.
