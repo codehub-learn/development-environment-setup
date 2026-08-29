@@ -22,6 +22,10 @@
     - If it doesn't exist type `python -m pip`. If this works, you can add pip to your environmental variables (look above on how to do this). `
     - If pip isn't installed, download the installer from [here](https://bootstrap.pypa.io/get-pip.py) and run it as a python script (on a terminal): `python get-pip.py`.
 
+## Package and Project Manager
+Follow the instructions to install **[uv package and project manager](https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_1)**
+
+
 ## Code editor
 Feel free to use any IDE you like. **However, [VS Code](https://code.visualstudio.com/) is the recommended IDE** since it is light-weight, has a ton of extensions/plugins, and it is an industry standard. 
 
