@@ -23,8 +23,8 @@ Below you will find the minimum versions and download links for the software:
 1. **GitHub Account**
    * Create a free account at [GitHub Sign Up](https://github.com/join).
 
-1. **Anthropic Account & Claude Subscription**
-   *Credentials and a Claude Subscription will be provided by Code.Hub during the training.
+1. **Claude Subscription**
+   * Credentials and a Claude Subscription will be provided by Code.Hub during the training.
 
 1. **Azure Account**
     * Credentials for an Azure resource group will be provided by Code.Hub during the training.
