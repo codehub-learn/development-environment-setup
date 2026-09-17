@@ -24,10 +24,13 @@ Below you will find the minimum versions and download links for the software:
    * Create a free account at [GitHub Sign Up](https://github.com/join).
 
 1. **Anthropic Account & Claude Subscription**
-   * An email and and a Claude Subscription will be provided by Code.Hub during the training
+   *Credentials and a Claude Subscription will be provided by Code.Hub during the training.
 
 1. **Azure Account**
-    * Credentials for an Azure and the appropriate resources 
+    * Credentials for an Azure resource group will be provided by Code.Hub during the training.
 
+1. **MS Fabric**
+    * Credentials for MS Fabric will be provided by Code.Hub during the training. 
+      
 *Please complete these installations and registrations beforehand so we can jump straight into the practical exercises!*
 
