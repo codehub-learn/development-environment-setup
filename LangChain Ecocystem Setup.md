@@ -49,6 +49,6 @@ From the left menu choose Product --> Setup --> Install and follow the instructi
 
 
 ## Accounts
-1. Create a **[Gmail or a Goole account](www.gmail.com)
+1. Create a **Gmail or a Goole account**
 1. Create a **[Github account](https://github.com/join)**
 1. Create a **[Hugging Face](https://huggingface.co)**
