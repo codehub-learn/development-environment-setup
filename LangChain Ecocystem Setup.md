@@ -49,7 +49,7 @@ From the left menu choose Product --> Setup --> Install and follow the instructi
 
 
 ## Accounts
-1. Create a **Gmail or a Goole account**
+1. Create a **[Gmail or a Goole account](https://accounts.google.com/)**
 1. Create a **[LangSmith account](https://smith.langchain.com/dashboards)**
 1. Create a **[Github account](https://github.com/join)**
-1. Create a **[Hugging Face](https://huggingface.co)**
+1. Create a **[Hugging Face account](https://huggingface.co)**
